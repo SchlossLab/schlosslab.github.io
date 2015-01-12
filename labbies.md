@@ -6,7 +6,7 @@ permalink: /labbies/
 
 Name | Degrees | Title |  Project | Year Joined | Something unique about you | Picture
 ------------|-------------|-----------|------------|------|-------------------|-----------
-[Pat Schloss](https://pschloss.github.io) | BS/PhD in Biological & Environmental Engineering at Cornell University | PI | World domination | 2006 | I have a farm with sheep, cows, chickens, pigs, and 7 kids | <img src="img/schloss.jpg" style="width: 400px;"/>
+[Pat Schloss](https://pschloss.github.io) | BS/PhD in Biological & Environmental Engineering at Cornell University | PI | World domination | 2006 | I have a farm with sheep, cows, chickens, pigs, and 7 kids | <img src="../img/schloss.jpg" style="width: 400px;"/>
 [Niel Baxter](https://nbaxter13.github.io) | BS in Biology at Indiana University | PhD Candidate | Microbiome & Colorectal Cancer | 2012 | 20% effort, 80% efficiency. Master of obscure sports. Wall-E makes me cry. | <img src="../img/baxter.jpg" style="width: 400px;"/>
 [Amanda Elmore](https://agelmore.github.io) | BS in Biological Sciences at Purdue University | PhD Student | Fusobacteria metagenomic assembly | 2014 | 2016 Olympic rowing hopeful | <img src="../img/elmore.jpg" style="width: 400px;"/>  
 [Kathryn Iverson](https://kdiverson.github.io) | MS in Bioinformatics at University of Michigan | Bioinformatition | More world domination | 2011 | I don't have an attached acl | <img src="../img/human_computer.jpg" style="width: 400px;"/>
