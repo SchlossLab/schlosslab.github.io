@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Lab Meeting Schedule
+title: Schedule
 permalink: /schedule/
 ---
 
