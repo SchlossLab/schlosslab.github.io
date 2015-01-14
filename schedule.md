@@ -28,7 +28,7 @@ want to share.
 
 Date  | Format           | Who       | Resources
 ------|------------------|-----------|:-----------------------------------------|
-1/14  | Code review      | Pat       | [Code review](http://arxiv.org/pdf/1311.2412v1.pdf), [R style guide](http://google-styleguide.googlecode.com/svn/trunk/Rguide.xml), [testthat](http://journal.r-project.org/archive/2011-1/RJournal_2011-1_Wickham.pdf)
+1/14  | [Code review](http://www.riffomonas.org/talks/2015_01_14_CodeReview.html)      | Pat       | [Code review](http://arxiv.org/pdf/1311.2412v1.pdf), [R style guide](http://google-styleguide.googlecode.com/svn/trunk/Rguide.xml), [testthat](http://journal.r-project.org/archive/2011-1/RJournal_2011-1_Wickham.pdf)
 1/21  | GitHub Training* | NA
 1/28  | Research talk    | Alyx
 2/4   | Journal club     | Amanda
