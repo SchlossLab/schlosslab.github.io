@@ -15,7 +15,7 @@ Monday morning so people can have a chance to review what you will be talking
 about.
 * **Journal club:** Discussion of a paper that you find worth reading. To cut
 down on the problem of crappy papers, read the paper before you pick it out.
-Send paper to group by 8 AM on Monday morning.
+Send paper to group by the end of the Friday before journal club.
 * **Chalk talk:** No slides. Present an idea for a future research project.
 This should include an observation, hypothesis, predictions, and discussion of
 several specific aims.
