@@ -33,7 +33,7 @@ Date  | Format           | Who       | Resources
 1/28  | Research talk    | Alyx
 2/5   | Journal club     | Amanda
 2/10  | Chalk talk       | Matt
-2/17  | Code review      | Niel
+2/17  | Code review      | Niel  |  [Code](https://github.com/SchlossLab/glne007/blob/master/rf.logit_models.R)
 2/24  | Research talk    | Kathryn
 3/3   | Journal club*    | Alyx
 3/10  | Chalk talk       | Pat
