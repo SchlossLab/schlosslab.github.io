@@ -41,15 +41,15 @@ Date  | Format           | Who       | Resources
 3/24  | Research talk    | Matt
 3/31  | Journal club     | Niel | [Oh et al. 2014 *Nature*](http://www.nature.com/nature/journal/v514/n7520/full/nature13786.html)
 4/7   | Chalk talk       | Kathryn
-4/14  | Code review      | Alyx
-4/21  | Research talk    | Pat
+4/14  | Code review      | Pat
+4/21  | Research talk    | Alyx
 4/28  | Chalk talk       | Amanda
-5/5   | Journal club*    | Matt
+5/5   | Journal club*    | Matt J
 5/12  | Code review      | Kathryn
 5/19  | Research talk    | Niel
 5/26  | Journal club     | Pat
-6/2   | Chalk talk       | Alyx
-6/9   | Code review      | Matt
+6/2   | Chalk talk       | Matt D
+6/9   | Code review      | Matt J
 6/16  | Research talk    | Amanda
 6/23  | Journal club     | Kathryn
 6/30  | Chalk talk       | Niel
