@@ -39,7 +39,7 @@ Date  | Format           | Who       | Resources
 3/10  | Chalk talk       | Pat
 3/17  | Code review      | Amanda
 3/24  | Research talk    | Matt
-3/31  | Journal club     | Niel
+3/31  | Journal club     | Niel | [Oh et al. 2014 *Nature*](http://www.nature.com/nature/journal/v514/n7520/full/nature13786.html)
 4/7   | Chalk talk       | Kathryn
 4/14  | Code review      | Alyx
 4/21  | Research talk    | Pat
