@@ -47,12 +47,12 @@ Date  | Format           | Who       | Resources
 5/5   | Journal club*    | Matt J | [Hsiao et al. 2014 *Nature*](http://www.nature.com/nature/journal/v515/n7527/full/nature13738.html)
 5/12  | Code review      | Kathryn
 5/19  | Research talk    | Niel
-5/26  | Journal club     | Pat | [Lax et al. 2014 *Science*](http://www.sciencemag.org/content/345/6200/1048.full.pdf)
-6/2   | Chalk talk       | Matt D
-6/9   | Code review      | Matt J
-6/16  | Research talk    | Amanda
-6/23  | Journal club     | Kathryn
-6/30  | Chalk talk       | Niel
+5/27  | Journal club     | Pat | [Lax et al. 2014 *Science*](http://www.sciencemag.org/content/345/6200/1048.full.pdf)
+6/3   | Chalk talk       | Matt D
+6/10   | Code review      | Matt J
+6/17  | Research talk    | Amanda
+6/24  | Journal club     | Kathryn
+7/1  | Chalk talk       | Niel
 
 <br>
 
