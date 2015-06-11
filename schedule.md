@@ -4,7 +4,7 @@ title: Schedule
 permalink: /schedule/
 ---
 
-We meet for our weekly lab meetings on Tuesdays at 3:30 PM in 1530 MSRB I. We
+We meet for our weekly lab meetings on Wednesdays at 3:30 PM in 1530 MSRB I. We
 generally meet for an hour. After 15 min of set up and announcements we have a
 presentation for the remainder of the hour that is led by one individual.
 Each week we rotate around the lab and will cover four different formats:
@@ -29,41 +29,42 @@ want to share.
 Date  | Format           | Who       | Resources
 ------|------------------|-----------|:-----------------------------------------|
 1/14  | [Code review](http://www.riffomonas.org/talks/2015_01_14_CodeReview.html)      | Pat       | [Code review](http://arxiv.org/pdf/1311.2412v1.pdf), [R style guide](http://google-styleguide.googlecode.com/svn/trunk/Rguide.xml), [testthat](http://journal.r-project.org/archive/2011-1/RJournal_2011-1_Wickham.pdf)
-1/21  | GitHub Training* | NA
-1/28  | Research talk    | Alyx
-2/5   | Journal club     | Amanda
-2/10  | Chalk talk       | Matt
+1/21  | GitHub Training* | NA     |
+1/28  | Research talk    | Alyx     |
+2/5   | Journal club     | Amanda     |
+2/10  | Chalk talk       | Matt     |
 2/17  | Code review      | Niel  |  [Code](https://github.com/SchlossLab/glne007/blob/master/rf.logit_models.R)
-2/24  | Research talk    | Kathryn
-3/3   | Journal club*    | Alyx
-3/10  | Chalk talk       | Pat
-3/17  | Code review      | Amanda
-3/24  | Research talk    | Matt
+2/24  | Research talk    | Kathryn     |
+3/3   | Journal club*    | Alyx     |
+3/10  | Chalk talk       | Pat     |
+3/17  | Code review      | Amanda     |
+3/24  | Research talk    | Matt     |
 3/31  | Journal club     | Niel | [Oh et al. 2014 *Nature*](http://www.nature.com/nature/journal/v514/n7520/full/nature13786.html)
-4/7   | Chalk talk       | Kathryn
-4/14  | Code review      | Pat
-4/21  | Research talk    | Alyx
-4/28  | Chalk talk       | Amanda
+4/7   | Chalk talk       | Kathryn     |
+4/14  | Code review      | Pat     |
+4/21  | Research talk    | Alyx     |
+4/28  | Chalk talk       | Amanda     |
 5/5   | Journal club*    | Matt J | [Hsiao et al. 2014 *Nature*](http://www.nature.com/nature/journal/v515/n7527/full/nature13738.html)
-5/12  | Code review      | Kathryn
-5/19  | Research talk    | Niel
+5/12  | Code review      | Kathryn     |
+5/19  | Research talk    | Niel     |
 5/27  | Journal club     | Pat | [Lax et al. 2014 *Science*](http://www.sciencemag.org/content/345/6200/1048.full.pdf)
-6/3   | Chalk talk       | Matt D
-6/10  | Code review      | Matt J
-6/17  | Organizational talk    | Pat
-6/24  | Journal club*    | Kathryn
-7/1   | Chalk talk       | Niel
-7/8   | Research talk    | Alyx 
-7/15  | Chalk talk       | Matt J
-7/22  | Code review      | Matt D
-7/29  | Journal club*    | Amanda
-8/5   | Research talk    | Pat
-8/12  | Chalk talk       | Kathryn
-8/19  | Resarch talk     | Nick
-8/26  | Journal club*    | Niel
-9/2   | Research talk    | Matt J
-9/9   | Chalk talk       | Amanda
-9/16  | Journal club     | Matt D
+6/3   | Chalk talk       | Matt D     |
+6/10  | Code review      | Matt J     |
+6/17  | Organizational talk    | Pat     |
+6/24  | Journal club*    | Kathryn     |
+7/1   | Chalk talk       | Niel     |
+7/8   | Research talk    | Alyx      |
+7/15  | Chalk talk       | Matt J     |
+7/22  | Code review      | Matt D     |
+7/29  | Journal club*    | Amanda     |
+8/5   | Research talk    | Pat     |
+8/12  | Chalk talk       | Kathryn     |
+8/19  | Resarch talk     | Nick     |
+8/26  | Journal club*    | Niel     |
+9/2   | Research talk    | Matt J     |
+9/9   | Chalk talk       | Amanda     |
+9/16  | Journal club     | Matt D     |
+
 <br>
 
 \* Pat will be out these days. When there are journal clubs on these dates, the
