@@ -49,11 +49,21 @@ Date  | Format           | Who       | Resources
 5/19  | Research talk    | Niel
 5/27  | Journal club     | Pat | [Lax et al. 2014 *Science*](http://www.sciencemag.org/content/345/6200/1048.full.pdf)
 6/3   | Chalk talk       | Matt D
-6/10   | Code review      | Matt J
-6/17  | Research talk    | Amanda
-6/24  | Journal club     | Kathryn
-7/1  | Chalk talk       | Niel
-
+6/10  | Code review      | Matt J
+6/17  | Organizational talk    | Pat
+6/24  | Journal club*    | Kathryn
+7/1   | Chalk talk       | Niel
+7/8   | Research talk    | Alyx 
+7/15  | Chalk talk       | Matt J
+7/22  | Code review      | Matt D
+7/29  | Journal club*    | Amanda
+8/5   | Research talk    | Pat
+8/12  | Chalk talk       | Kathryn
+8/19  | Resarch talk     | Nick
+8/26  | Journal club*    | Niel
+9/2   | Research talk    | Matt J
+9/9   | Chalk talk       | Amanda
+9/16  | Journal club     | Matt D
 <br>
 
 \* Pat will be out these days. When there are journal clubs on these dates, the
