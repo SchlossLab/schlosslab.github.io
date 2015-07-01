@@ -52,7 +52,7 @@ want to share.
 | 6/10  | Code review      | Matt J     |   |
 | 6/17  | Organizational talk    | Pat     |   |
 | 6/24  | Journal club*    | Kathryn     |   |
-| 7/1   | Chalk talk       | Niel     | [Citations in R Markdown](http://rmarkdown.rstudio.com/authoring_bibliographies_and_citations.html), [Journal csl Files](https://github.com/citation-style-language/styles)  |
+| 7/1   | Chalk talk       | Niel     | [Citations in R Markdown](http://rmarkdown.rstudio.com/authoring_bibliographies_and_citations.html), [BibTex Examples](https://www.verbosus.com/bibtex-style-examples.html), [Journal csl Files](https://github.com/citation-style-language/styles)  |
 | 7/8   | Research talk    | Alyx      |   |
 | 7/15  | Chalk talk       | Matt J     |   |
 | 7/22  | Code review      | Matt D     |   |
