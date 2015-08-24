@@ -60,7 +60,7 @@ want to share.
 | 8/5   | Research talk    | Pat     |   |
 | 8/12  | Chalk talk       | Kathryn     |   |
 | 8/19  | Resarch talk     | Nick     |   |
-| 8/26  | Journal club*    | Niel     |   |
+| 8/26  | Journal club*    | Niel     | [Zeller et al. 2014 _Mol. Sys. Biol._](http://msb.embopress.org/content/msb/10/11/766.full.pdf)  |
 | 9/2   | Research talk    | Matt J     |   |
 | 9/9   | Chalk talk       | Amanda     |   |
 | 9/16  | Journal club     | Matt D     |   |
