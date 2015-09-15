@@ -28,48 +28,48 @@ want to share.
 
 | Date  | Format           | Who       | Resources                                |
 |-------|------------------|-----------|:-----------------------------------------|
-| 9/23	|	Code_review	|	Kathryn	|	|
-| 9/30	|	Journal_club	|	Niel	|	|
-| 10/7	|	Research_talk	|	Matt J	|	|
-| 10/14	|	Chalk_talk	|	Matt D	|	|
-| 10/21	|	Code_review	|	Amanda	|	|
-| 10/28	|	Journal_club	|	Marc	|	|
-| 11/4	|	Research_talk	|	Kaitlin	|	|
-| 11/11	|	Chalk_talk	|	Geof	|	|
-| 11/18	|	Journal_club	|	Kathryn	|	|
+| 9/23	|	Code review	|	Kathryn	|	|
+| 9/30	|	Journal club	|	Niel	|	|
+| 10/7	|	Research talk	|	Matt J	|	|
+| 10/14	|	Chalk talk	|	Matt D	|	|
+| 10/21	|	Code review	|	Amanda	|	|
+| 10/28	|	Journal club	|	Marc	|	|
+| 11/4	|	Research talk	|	Kaitlin	|	|
+| 11/11	|	Chalk talk	|	Geof	|	|
+| 11/18	|	Journal club	|	Kathryn	|	|
 | 11/25	|	Thanksgiving	|	|
-| 12/2	|	Research_talk	|	Niel	|	|
-| 12/9	|	Chalk_talk	|	Matt J	|	|
-| 12/16	|	Code_review	|	Matt D	|	|
+| 12/2	|	Research talk	|	Niel	|	|
+| 12/9	|	Chalk talk	|	Matt J	|	|
+| 12/16	|	Code review	|	Matt D	|	|
 | 12/23	|	Break	|	|
 | 12/30	|	Break	|	|
-| 1/6	|	Journal_club	|	Amanda	|	|
-| 1/13	|	Research_talk	|	Marc	|	|
-| 1/20	|	Chalk_talk	|	Kaitlin	|	|
-| 1/27	|	Code_review	|	Geof	|	|
-| 2/3	|	Research_talk	|	Kathryn	|	|
-| 2/10	|	Chalk_talk	|	Niel	|	|
-| 2/17	|	Code_review	|	Matt J	|	|
-| 2/24	|	Journal_club	|	Matt D	|	|
-| 3/2	|	Research_talk	|	Amanda	|	|
-| 3/9	|	Chalk_talk	|	Marc	|	|
-| 3/16	|	Code_review	|	Kaitlin	|	|
-| 3/23	|	Journal_club	|	Geof	|	|
-| 3/30	|	Chalk_talk	|	Kathryn	|	|
-| 4/6	|	Code_review	|	Niel	|	|
-| 4/13	|	Journal_club	|	Matt J	|	|
-| 4/20	|	Research_talk	|	Matt D	|	|
-| 4/27	|	Chalk_talk	|	Amanda	|	|
-| 5/4	|	Code_review	|	Marc	|	|
-| 5/11	|	Journal_club	|	Kaitlin	|
-| 5/18	|	Research_talk	|	Geof	|	|
+| 1/6	|	Journal club	|	Amanda	|	|
+| 1/13	|	Research talk	|	Marc	|	|
+| 1/20	|	Chalk talk	|	Kaitlin	|	|
+| 1/27	|	Code review	|	Geof	|	|
+| 2/3	|	Research talk	|	Kathryn	|	|
+| 2/10	|	Chalk talk	|	Niel	|	|
+| 2/17	|	Code review	|	Matt J	|	|
+| 2/24	|	Journal club	|	Matt D	|	|
+| 3/2	|	Research talk	|	Amanda	|	|
+| 3/9	|	Chalk talk	|	Marc	|	|
+| 3/16	|	Code review	|	Kaitlin	|	|
+| 3/23	|	Journal club	|	Geof	|	|
+| 3/30	|	Chalk talk	|	Kathryn	|	|
+| 4/6	|	Code review	|	Niel	|	|
+| 4/13	|	Journal club	|	Matt J	|	|
+| 4/20	|	Research talk	|	Matt D	|	|
+| 4/27	|	Chalk talk	|	Amanda	|	|
+| 5/4	|	Code review	|	Marc	|	|
+| 5/11	|	Journal club	|	Kaitlin	|
+| 5/18	|	Research talk	|	Geof	|	|
 | 	|	|	|	|
-| 1/14/15	| [Code review](http://www.riffomonas.org/talks/2015_01_14_CodeReview.html)      | Pat       | [Code review](http://arxiv.org/pdf/1311.2412v1.pdf), [R style guide](http://google-styleguide.googlecode.com/svn/trunk/Rguide.xml), [testthat](http://journal.r-project.org/archive/2011-1/RJournal_2011-1_Wickham.pdf)
+| 1/14/15	| [Code review](http://www.riffomonas.org/talks/2015 01 14 CodeReview.html)      | Pat       | [Code review](http://arxiv.org/pdf/1311.2412v1.pdf), [R style guide](http://google-styleguide.googlecode.com/svn/trunk/Rguide.xml), [testthat](http://journal.r-project.org/archive/2011-1/RJournal 2011-1 Wickham.pdf)
 | 1/21/15	| GitHub Training* | NA     |   |
 | 1/28/15	| Research talk    | Alyx     |   |
 | 2/5/15	| Journal club     | Amanda     |   |
 | 2/10/15	| Chalk talk       | Matt     |   |
-| 2/17/15	| Code review      | Niel  |  [Code](https://github.com/SchlossLab/glne007/blob/master/rf.logit_models.R)   |
+| 2/17/15	| Code review      | Niel  |  [Code](https://github.com/SchlossLab/glne007/blob/master/rf.logit models.R)   |
 | 2/24/15	| Research talk    | Kathryn     |   |
 | 3/3/15	| Journal club*    | Alyx     |   |
 | 3/10/15	| Chalk talk       | Pat     |   |
@@ -88,7 +88,7 @@ want to share.
 | 6/10/15	| Code review      | Matt J     |   |
 | 6/17/15	| Organizational talk    | Pat     |   |
 | 6/24/15	| Journal club*    | Kathryn     |   |
-| 7/1/15	| Chalk talk       | Niel     | [Citations in R Markdown](http://rmarkdown.rstudio.com/authoring_bibliographies_and_citations.html), [BibTex Examples](https://www.verbosus.com/bibtex-style-examples.html), [Journal csl Files](https://github.com/citation-style-language/styles)  |
+| 7/1/15	| Chalk talk       | Niel     | [Citations in R Markdown](http://rmarkdown.rstudio.com/authoring bibliographies and citations.html), [BibTex Examples](https://www.verbosus.com/bibtex-style-examples.html), [Journal csl Files](https://github.com/citation-style-language/styles)  |
 | 7/8/15	| Research talk    | Alyx      |   |
 | 7/15/15	| Chalk talk       | Matt J     |   |
 | 7/22/15	| Code review      | Matt D     |   |
@@ -96,7 +96,7 @@ want to share.
 | 8/5/15	| Research talk    | Pat     |   |
 | 8/12/15	| Chalk talk       | Kathryn     |   |
 | 8/19/15	| Resarch talk     | Nick     |   |
-| 8/26/15	| Journal club*    | Niel     | [Zeller et al. 2014 _Mol. Sys. Biol._](http://msb.embopress.org/content/msb/10/11/766.full.pdf)  |
+| 8/26/15	| Journal club*    | Niel     | [Zeller et al. 2014  Mol. Sys. Biol. ](http://msb.embopress.org/content/msb/10/11/766.full.pdf)  |
 | 9/2/15	| Research talk    | Matt J     |   |
 | 9/9/15	| Chalk talk       | Amanda     |   |
 | 9/16/15	| Journal club     | Matt D     |   |
