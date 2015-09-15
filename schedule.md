@@ -28,37 +28,41 @@ want to share.
 
 | Date  | Format           | Who       | Resources                                |
 |-------|------------------|-----------|:-----------------------------------------|
-| 9/23	 | 	Code review	 | 	Kathryn	|	|
-| 9/30	 | 	Journal club	 | 	Niel	|	|
-| 10/7	 | 	Research talk	 | 	Matt J	 |	|
-| 10/14	 | 	Chalk talk	 | 	Matt D	|	|
-| 10/21	 | 	Code review	 | 	Amanda	 |	|
-| 10/28	 | 	Journal club	 | 	Marc	|	|
-| 11/4	 | 	Research talk	 | 	Geof	|	|
-| 11/11	 | 	Chalk talk	 | 	Kathryn	|	|
-| 11/18	 | 	Code review	 | 	Niel	|	|
-| 11/25	 | 	Thanksgiving	|	|
-| 12/2	 | 	Journal club	 | 	Matt J	|	|
-| 12/9	 | 	Research talk	 | 	Matt D	|	|
-| 12/16	 | 	Chalk talk	 | 	Amanda	|	|
-| 12/23	 | 	Break	|	|
-| 12/30	 | 	Break	|	|
-| 1/6	 | 	Code review	 | 	Marc	|	|
-| 1/13	 | 	Journal club	 | 	Geof	|	|
-| 1/20	 | 	Research talk	 | 	Kathryn	|	|
-| 1/27	 | 	Chalk talk	 | 	Niel	|	|
-| 2/3	 | 	Code review	 | 	Matt J	|	|
-| 2/10	 | 	Journal club	 | 	Matt D	|	|
-| 2/17	 | 	Research talk	 | 	Amanda	|	|
-| 2/24	 | 	Chalk talk	 | 	Marc	|	|
-| 3/2	 | 	Code review	 | 	Geof	|	|
-| 3/9	 | 	Journal club	 | 	Kathryn	|	|
-| 3/16	 | 	Research talk	 | 	Niel	|	|
-| 3/23	 | 	Chalk talk	 | 	Matt J	|	|
-| 3/30	 | 	Code review	 | 	Matt D	|	|
-| 4/6	 | 	Journal club	 | 	Amanda	 |	|
-| 4/13	 | 	Research talk	 | 	Marc	|	|
-| 4/20	 | 	Chalk talk	 | 	Geof	|	|
+| 9/23	|	Code_review	|	Kathryn	|	|
+| 9/30	|	Journal_club	|	Niel	|	|
+| 10/7	|	Research_talk	|	Matt J	|	|
+| 10/14	|	Chalk_talk	|	Matt D	|	|
+| 10/21	|	Code_review	|	Amanda	|	|
+| 10/28	|	Journal_club	|	Marc	|	|
+| 11/4	|	Research_talk	|	Kaitlin	|	|
+| 11/11	|	Chalk_talk	|	Geof	|	|
+| 11/18	|	Journal_club	|	Kathryn	|	|
+| 11/25	|	Thanksgiving	|	|
+| 12/2	|	Research_talk	|	Niel	|	|
+| 12/9	|	Chalk_talk	|	Matt J	|	|
+| 12/16	|	Code_review	|	Matt D	|	|
+| 12/23	|	Break	|	|
+| 12/30	|	Break	|	|
+| 1/6	|	Journal_club	|	Amanda	|	|
+| 1/13	|	Research_talk	|	Marc	|	|
+| 1/20	|	Chalk_talk	|	Kaitlin	|	|
+| 1/27	|	Code_review	|	Geof	|	|
+| 2/3	|	Research_talk	|	Kathryn	|	|
+| 2/10	|	Chalk_talk	|	Niel	|	|
+| 2/17	|	Code_review	|	Matt J	|	|
+| 2/24	|	Journal_club	|	Matt D	|	|
+| 3/2	|	Research_talk	|	Amanda	|	|
+| 3/9	|	Chalk_talk	|	Marc	|	|
+| 3/16	|	Code_review	|	Kaitlin	|	|
+| 3/23	|	Journal_club	|	Geof	|	|
+| 3/30	|	Chalk_talk	|	Kathryn	|	|
+| 4/6	|	Code_review	|	Niel	|	|
+| 4/13	|	Journal_club	|	Matt J	|	|
+| 4/20	|	Research_talk	|	Matt D	|	|
+| 4/27	|	Chalk_talk	|	Amanda	|	|
+| 5/4	|	Code_review	|	Marc	|	|
+| 5/11	|	Journal_club	|	Kaitlin	|
+| 5/18	|	Research_talk	|	Geof	|	|
 | 	|	|	|	|
 | 1/14/15	| [Code review](http://www.riffomonas.org/talks/2015_01_14_CodeReview.html)      | Pat       | [Code review](http://arxiv.org/pdf/1311.2412v1.pdf), [R style guide](http://google-styleguide.googlecode.com/svn/trunk/Rguide.xml), [testthat](http://journal.r-project.org/archive/2011-1/RJournal_2011-1_Wickham.pdf)
 | 1/21/15	| GitHub Training* | NA     |   |
