@@ -59,7 +59,7 @@ want to share.
 | 4/6	 | 	Journal club	 | 	Amanda	 |	|
 | 4/13	 | 	Research talk	 | 	Marc	|	|
 | 4/20	 | 	Chalk talk	 | 	Geof	|	|
-| 2015	|	|	|	|
+| 	|	|	|	|
 | 1/14  | [Code review](http://www.riffomonas.org/talks/2015_01_14_CodeReview.html)      | Pat       | [Code review](http://arxiv.org/pdf/1311.2412v1.pdf), [R style guide](http://google-styleguide.googlecode.com/svn/trunk/Rguide.xml), [testthat](http://journal.r-project.org/archive/2011-1/RJournal_2011-1_Wickham.pdf)
 | 1/21  | GitHub Training* | NA     |   |
 | 1/28  | Research talk    | Alyx     |   |
