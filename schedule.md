@@ -60,42 +60,42 @@ want to share.
 | 4/13	 | 	Research talk	 | 	Marc	|	|
 | 4/20	 | 	Chalk talk	 | 	Geof	|	|
 | 	|	|	|	|
-| 1/14  | [Code review](http://www.riffomonas.org/talks/2015_01_14_CodeReview.html)      | Pat       | [Code review](http://arxiv.org/pdf/1311.2412v1.pdf), [R style guide](http://google-styleguide.googlecode.com/svn/trunk/Rguide.xml), [testthat](http://journal.r-project.org/archive/2011-1/RJournal_2011-1_Wickham.pdf)
-| 1/21  | GitHub Training* | NA     |   |
-| 1/28  | Research talk    | Alyx     |   |
-| 2/5   | Journal club     | Amanda     |   |
-| 2/10  | Chalk talk       | Matt     |   |
-| 2/17  | Code review      | Niel  |  [Code](https://github.com/SchlossLab/glne007/blob/master/rf.logit_models.R)   |
-| 2/24  | Research talk    | Kathryn     |   |
-| 3/3   | Journal club*    | Alyx     |   |
-| 3/10  | Chalk talk       | Pat     |   |
-| 3/17  | Code review      | Amanda     |   |
-| 3/24  | Research talk    | Matt     |   |
-| 3/31  | Journal club     | Niel | [Oh et al. 2014 *Nature*](http://www.nature.com/nature/journal/v514/n7520/full/nature13786.html)   |
-| 4/7   | Chalk talk       | Kathryn     |   |
-| 4/14  | Code review      | Pat     |   |
-| 4/21  | Research talk    | Alyx     |   |
-| 4/28  | Chalk talk       | Amanda     |   |
-| 5/5   | Journal club*    | Matt J | [Hsiao et al. 2014 *Nature*](http://www.nature.com/nature/journal/v515/n7527/full/nature13738.html)   |
-| 5/12  | Code review      | Kathryn     |   |
-| 5/19  | Research talk    | Niel     |   |
-| 5/27  | Journal club     | Pat | [Lax et al. 2014 *Science*](http://www.sciencemag.org/content/345/6200/1048.full.pdf)   |
-| 6/3   | Chalk talk       | Matt D     |   |
-| 6/10  | Code review      | Matt J     |   |
-| 6/17  | Organizational talk    | Pat     |   |
-| 6/24  | Journal club*    | Kathryn     |   |
-| 7/1   | Chalk talk       | Niel     | [Citations in R Markdown](http://rmarkdown.rstudio.com/authoring_bibliographies_and_citations.html), [BibTex Examples](https://www.verbosus.com/bibtex-style-examples.html), [Journal csl Files](https://github.com/citation-style-language/styles)  |
-| 7/8   | Research talk    | Alyx      |   |
-| 7/15  | Chalk talk       | Matt J     |   |
-| 7/22  | Code review      | Matt D     |   |
-| 7/29  | Journal club*    | Amanda     |   |
-| 8/5   | Research talk    | Pat     |   |
-| 8/12  | Chalk talk       | Kathryn     |   |
-| 8/19  | Resarch talk     | Nick     |   |
-| 8/26  | Journal club*    | Niel     | [Zeller et al. 2014 _Mol. Sys. Biol._](http://msb.embopress.org/content/msb/10/11/766.full.pdf)  |
-| 9/2   | Research talk    | Matt J     |   |
-| 9/9   | Chalk talk       | Amanda     |   |
-| 9/16  | Journal club     | Matt D     |   |
+| 1/14/15	| [Code review](http://www.riffomonas.org/talks/2015_01_14_CodeReview.html)      | Pat       | [Code review](http://arxiv.org/pdf/1311.2412v1.pdf), [R style guide](http://google-styleguide.googlecode.com/svn/trunk/Rguide.xml), [testthat](http://journal.r-project.org/archive/2011-1/RJournal_2011-1_Wickham.pdf)
+| 1/21/15	| GitHub Training* | NA     |   |
+| 1/28/15	| Research talk    | Alyx     |   |
+| 2/5/15	| Journal club     | Amanda     |   |
+| 2/10/15	| Chalk talk       | Matt     |   |
+| 2/17/15	| Code review      | Niel  |  [Code](https://github.com/SchlossLab/glne007/blob/master/rf.logit_models.R)   |
+| 2/24/15	| Research talk    | Kathryn     |   |
+| 3/3/15	| Journal club*    | Alyx     |   |
+| 3/10/15	| Chalk talk       | Pat     |   |
+| 3/17/15	| Code review      | Amanda     |   |
+| 3/24/15	| Research talk    | Matt     |   |
+| 3/31/15	| Journal club     | Niel | [Oh et al. 2014 *Nature*](http://www.nature.com/nature/journal/v514/n7520/full/nature13786.html)   |
+| 4/7/15	| Chalk talk       | Kathryn     |   |
+| 4/14/15	| Code review      | Pat     |   |
+| 4/21/15	| Research talk    | Alyx     |   |
+| 4/28/15	| Chalk talk       | Amanda     |   |
+| 5/5/15	| Journal club*    | Matt J | [Hsiao et al. 2014 *Nature*](http://www.nature.com/nature/journal/v515/n7527/full/nature13738.html)   |
+| 5/12/15	| Code review      | Kathryn     |   |
+| 5/19/15	| Research talk    | Niel     |   |
+| 5/27/15	| Journal club     | Pat | [Lax et al. 2014 *Science*](http://www.sciencemag.org/content/345/6200/1048.full.pdf)   |
+| 6/3/15	| Chalk talk       | Matt D     |   |
+| 6/10/15	| Code review      | Matt J     |   |
+| 6/17/15	| Organizational talk    | Pat     |   |
+| 6/24/15	| Journal club*    | Kathryn     |   |
+| 7/1/15	| Chalk talk       | Niel     | [Citations in R Markdown](http://rmarkdown.rstudio.com/authoring_bibliographies_and_citations.html), [BibTex Examples](https://www.verbosus.com/bibtex-style-examples.html), [Journal csl Files](https://github.com/citation-style-language/styles)  |
+| 7/8/15	| Research talk    | Alyx      |   |
+| 7/15/15	| Chalk talk       | Matt J     |   |
+| 7/22/15	| Code review      | Matt D     |   |
+| 7/29/15	| Journal club*    | Amanda     |   |
+| 8/5/15	| Research talk    | Pat     |   |
+| 8/12/15	| Chalk talk       | Kathryn     |   |
+| 8/19/15	| Resarch talk     | Nick     |   |
+| 8/26/15	| Journal club*    | Niel     | [Zeller et al. 2014 _Mol. Sys. Biol._](http://msb.embopress.org/content/msb/10/11/766.full.pdf)  |
+| 9/2/15	| Research talk    | Matt J     |   |
+| 9/9/15	| Chalk talk       | Amanda     |   |
+| 9/16/15	| Journal club     | Matt D     |   |
 
 <br>
 
