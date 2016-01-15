@@ -57,7 +57,7 @@ html{
 }
 
 body {
-	max-width: 900px;
+	max-width: 1000px;
 	margin: 0 auto;
 	background-color: #fff;
 }
@@ -130,7 +130,8 @@ body {
 	background-color: $match-color;
 	color: #fff;
 	font-weight: 50;
-	padding: 20px 0 20px;
+	margin-top: 30px;
+	padding: 20px 0 20px 0;
 
 	p {
 		padding: 0;
@@ -151,18 +152,21 @@ body {
 	background: url(/assets/img/microbial_community_dull.png) center center no-repeat;
 	background-size: cover;
 	color: #fff;
-	padding: 0 60px 100px 60px;
+	padding: 0 0 100px 0;
 
 	.container-fluid {
-		padding: 0;
+	/*	padding: 0;*/
 	}
-	h2 {
+
+	h1 {
+		padding: 0 60px 0 60px;
 		margin: 50px 0;
 		font-weight: 700;
 		font-size: 40px;
 	}
 
 	.quote {
+		padding: 0 60px 0 60px;
 		font-size: 20px;
 		font-style: italic;
 		font-weight: 400;
@@ -170,6 +174,7 @@ body {
 	}
 
 	.attribution {
+		padding: 0 60px 0 60px;
 		text-align: right;
 		margin: 0 40px;
 
@@ -275,4 +280,10 @@ body {
 .vcenter {
     display: flex;
     align-items: center;
+}
+
+
+h2 {
+	color: $match-color;
+	font-weight: 600;
 }
