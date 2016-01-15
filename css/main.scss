@@ -133,11 +133,17 @@ body {
 	margin-top: 30px;
 	padding: 20px 0 20px 0;
 
+	.container-fluid {
+		margin: 0 40px;
+		padding: 0;
+	}
+	.col-xs-6 {
+		padding: 0;
+	}
 	p {
 		padding: 0;
 		margin: 0;
 	}
-
 	a, a:hover {
 		color: white;
 		text-decoration: none;
