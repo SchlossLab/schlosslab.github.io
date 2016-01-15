@@ -171,8 +171,18 @@ body {
 
 	.attribution {
 		text-align: right;
-		font-size: 15px;
-		font-weight: 400;
+		margin: 0 40px;
+
+		a {
+			font-size: 18px;
+			font-weight: 400;
+			text-decoration: underline;
+			color: #fff;
+
+		    &:hover {
+		        text-decoration: none;
+		    }
+		}
 	}
 }
 
