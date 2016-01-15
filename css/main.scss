@@ -6,7 +6,7 @@
 
 
 // Our variables
-$base-font-family: Helvetica, Arial, sans-serif;
+$base-font-family: 'Ubuntu', sans-serif;;
 $base-font-size:   16px;
 $small-font-size:  $base-font-size * 0.875;
 $base-line-height: 1.5;
@@ -286,4 +286,51 @@ body {
 h2 {
 	color: $match-color;
 	font-weight: 600;
+	font-size: 34px;
+}
+
+.news {
+	margin: 0px;
+
+	.blurb {
+		color: #755125;
+		font-size: 19px;
+		font-weight: 500;
+	}
+
+	ul {
+		list-style-type: none;
+		margin: 0;
+	}
+
+	li {
+		margin-bottom: 30px;
+	}
+	.title {
+		font-weight: 800;
+		text-decoration: none;
+		color: $match-color;
+		display: block;
+	    font-size: 24px;
+		margin: 0;
+		padding: 0;
+	}
+	.title:visited {
+		color: $match-color;
+	}
+	.title:hover {
+		color: $match-color;
+		text-decoration: none;
+	}
+
+	.meta {
+		margin: 0;
+		color: $comp-color;
+		padding: 1px 0;
+		font-size: 14px;
+	}
+
+	.content {
+		margin: 10px 0;
+	}
 }
