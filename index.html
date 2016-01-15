@@ -1,21 +1,89 @@
 ---
-layout: default
+layout: home
+category: home
 ---
 
-<div class="home">
+<div class="intro">
+	{% include header.html %}
 
-  <ul class="post-list">
-    {% for post in site.posts %}
-      <li>
-        <span class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</span>
+	<h2>The Schloss Lab</h2>
+	<div class="quote">
+		"...it would appear to be a pointless and doubtful exercise to examine and disentangle the apparently random appearing bacteria in normal feces and the intestinal tract, a situation that seems controlled by a thousand coincidences... Yet I have nevertheless devoted myself now for a year virtually exclusively to this special study, it was with the conviction that the accurate knowledge of these conditions is essential, for the understanding of not only the physiology of digestion..., but also the pathology and therapy of microbial intestinal diseases."
+	</div>
+	<div class="attribution">
+		- Theodor Escherich, 1885
+	</div>
+</div>
 
-        <h2>
-          <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
-        </h2>
-      </li>
-    {% endfor %}
-  </ul>
+<div class="blurb">
+	<div class="container-fluid">
+		<div class="row vcenter">
+			<div class="col-sm-4">
+				<img class="img-responsive" src="assets/img/lab.jpg"/>
+			</div>
+			<div class="col-sm-8">
+				<h3>Our Mission</h3>
+				<p>More than 130 years later, our research group shares the dedication of Theodor Escherich as we try to understand the role of the gut microbiota in <i>Clostridium difficile</i> infections and the progression of colorectal cancer. Since Escherich found the causative agent for diarrhea, what we now call <i>E. coli</i>, a lot has happened in science. We now have a far better understanding of microbiology, molecular biology, ecology, evolutionary theory, and statistics. Our research group is dedicated to integrating across disciplines to advance our knowledge of the role of the microbiome in human health. Human microbiome research is experiencing an amazing period of growth and we are helping to lead that effort. If you are interested in learning more about our work please explore this site and feel free to contact us with any questions.</p>
+			</div>
+		</div>
+		<div class="row vcenter">
+			<div class="col-sm-8">
+				<h3>Hail to the Victors Valiant</h3>
+				<p>We are fortunate to reside within the Department of Microbiology & Immunology at the University of Michigan School of Medicine. Our department has a rich history spanning the last 100 years. We stand on the shoulders of giants including Frederick Novy, Fred Niedhart, and Rolf Freter. Our laboratory is in the Medical Science Research Building I and is co-housed with the laboratories of Drs. Vincent Young, Thomas Schmidt, and Evan Snitkin. Together we represent the core of the University of Michigan <a href="https://medicine.umich.edu/medschool/research/research-strengths/host-microbiome-initiative" alt="Frederick Novy">Host-Microbiome Initiative</a>. We have direct access to DNA sequencers, robotics, animal facilities, and anaerobic chambers. With great clinical collaborators and generous patients, we are able to insure that our results have the greatest possible relevance. It's hard to imagine a better environment to carry out microbiome research today.</p>
+			</div>
+			<div class="col-sm-4">
+				<img class=" img-responsive"  src="assets/img/novy.jpg"/>
+			</div>
+		</div>
+	</div>
+</div>
 
-  <p class="rss-subscribe">subscribe <a href="{{ "/feed.xml" | prepend: site.baseurl }}">via RSS</a></p>
+<div class="button-row">
+	<div class="container-fluid">
+		<h2>Learn more about our research group</h2>
+		<div class="row">
+			<div class="col-sm-3">
+				<a href="science">
+					<img src="assets/img/missing.jpg" alt="Science" class="img-responsive img-circle pic">
+					<span class="caption">Science</span>
+				</a>
+			</div>
 
+			<div class="col-sm-3">
+				<a href="labbies">
+					<img src="assets/img/missing.jpg" alt="Labbies" class="img-responsive img-circle pic">
+					<div class="caption">Labbies</div>
+				</a>
+			</div>
+
+			<div class="col-sm-3">
+				<a href="bibliography">
+					<img src="assets/img/missing.jpg" alt="Papers" class="img-responsive img-circle pic">
+					<div class="caption">Papers</div>
+				</a>
+			</div>
+
+			<div class="col-sm-3">
+				<a href="news">
+					<img src="assets/img/missing.jpg" alt="News" class="img-responsive img-circle pic">
+					<div class="caption">News</div>
+				</a>
+			</div>
+
+		</div>
+	</div>
+</div>
+
+<div class="blurb">
+	<div class="container-fluid">
+		<div class="row vcenter">
+			<div class="col-sm-4">
+				<img class="img-responsive" src="assets/img/pat_professional.jpg" alt="Pat Schloss"/>
+			</div>
+			<div class="col-sm-8">
+				<h3>Join Us!</h3>
+				<p>I am always looking for exceptional and dedicated scientists and try to maintain a balance between training graduate students and postdoctoral researchers. It is important to me that we maintain a diverse team so that we do the best job of synergizing our experiences and interests. If you are interested in working towards a PhD at Michigan, I participate in the Program in Biomedical Sciences (PIBS), which is an umbrella program within the Medical School. You should apply to the Department of Microbiology & Immunology through PIBS and once you get here, ask me about doing a rotation. If you are finishing your PhD and are looking for a potential postdoctoral position, let's start a conversation.</p>
+			</div>
+		</div>
+	</div>
 </div>

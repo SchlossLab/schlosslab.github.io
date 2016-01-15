@@ -1,7 +1,6 @@
 ---
-layout: page
+layout: labbies
 title: Labbies
-permalink: /labbies/
 ---
 
 Name | Degrees | Title |  Project | Year Joined | Something unique about you | Picture
