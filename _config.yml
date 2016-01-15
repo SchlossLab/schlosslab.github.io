@@ -21,3 +21,5 @@ collections:
     output: true
   operations:
     output: true
+  news:
+    output: true
