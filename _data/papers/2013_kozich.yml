@@ -7,7 +7,7 @@ volume: 79
 issue: 17
 pages: 5112-20
 doi: 10.1128/AEM.01043-13
-github: https://github.com/SchlossLab/Kozich_MiSeqSOP_AEM_2013
+github: Kozich_MiSeqSOP_AEM_2013
 data: http://www.mothur.org/MiSeqDevelopmentData/
 labbies: [ schloss, kozich, baxter, westcott ]
 media:

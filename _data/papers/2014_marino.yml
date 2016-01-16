@@ -1,0 +1,14 @@
+---
+title: Mathematical modeling of primary succession of murine intestinal microbiota
+year: 2014
+authors: Marino S, Baxter NT, Huffnagle GB, Petrosino JF, Schloss PD
+journal: Proc Natl Acad Sci USA
+volume: 111
+issue: 1
+pages: 439-44
+doi: 10.1073/pnas.1311322111
+github:
+data: http://www.mothur.org/germ_free_model
+labbies: [ schloss, baxter ]
+media:
+---

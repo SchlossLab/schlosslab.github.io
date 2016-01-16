@@ -1,0 +1,14 @@
+---
+title: Multicenter Comparison of Lung and Oral Microbiomes of HIV-infected and HIV-uninfected Individuals
+year: 2015
+authors: Beck JM, Schloss PD, Venkataraman A, Twigg H 3rd, Jablonski KA, Bushman FD, Campbell TB, Charlson ES, Collman RG, Crothers K, Curtis JL, Drews KL, Flores SC, Fontenot AP, Foulkes MA, Frank I, Ghedin E, Huang L, Lynch SV, Morris A, Palmer BE, Schmidt TM, Sodergren E, Weinstock GM, Young VB, Lung HIV Microbiome Project
+journal: Am J Respir Crit Care Med
+volume: 192
+issue: 11
+pages: 1335-44
+doi: 10.1164/rccm.201501-0128OC
+github:
+data:
+labbies: [ schloss ]
+media:
+---

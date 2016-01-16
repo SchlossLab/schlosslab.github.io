@@ -1,0 +1,14 @@
+---
+title: Structure of the gut microbiome following colonization with human feces determines colonic tumor burden
+year: 2014
+authors: Baxter NT, Zackular JP, Chen GY, Schloss PD
+journal: Microbiome
+volume: 2
+issue:
+pages: 20
+doi: 10.1186/2049-2618-2-20
+github:
+data: http://www.mothur.org/human_mouse_aomdss
+labbies: [ schloss, baxter, zackular ]
+media:
+---
