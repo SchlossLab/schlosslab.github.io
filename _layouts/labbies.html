@@ -27,6 +27,18 @@ layout: default
 					</a>
 					{% endif			%}
 
+					{% if page.google_scholar	%}
+					<a href="{{page.google_scholar}}">
+						<i class="ai ai-google-scholar ai-lg"></i>
+					</a>
+					{% endif			%}
+
+					{% if page.orcid	%}
+					<a href="http://orcid.org/{{page.orcid}}">
+						<i class="ai ai-orcid ai-lg"></i>
+					</a>
+					{% endif			%}
+
 					{% if page.linkedin	%}
 					<a href="https://linkedin.com/in/{{ page.linkedin }}">
 						<i class="fa fa-linkedin fa-lg"></i>
