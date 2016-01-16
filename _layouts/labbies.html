@@ -33,13 +33,16 @@ layout: default
 					</a>
 					{% endif			%}
 
+					{% if page.website	%}
+					<a href="{{ page.website }}">
+						<i class="fa fa-globe fa-lg"></i>
+					</a>
+					{% endif			%}
+
 					{% if page.phone	%}
 					• {{ page.phone }}
 					{% endif			%}
 
-					{% if page.website	%}
-					• <a href="{{ page.website }}">WWW</a>
-					{% endif			%}
 				</div>
 
 				<p>
