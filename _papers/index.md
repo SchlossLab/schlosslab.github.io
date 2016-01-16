@@ -14,7 +14,11 @@ title: Papers
 			{{ pub.year }}.
 			{{ pub.title }}.
 			<i>{{ pub.journal }}</i>.
+
+			{% if pub.volume %}
 			<b>{{ pub.volume }}:</b>
+			{% endif %}
+
 			{{ pub.pages }}.
 
 			{% if pub.doi %}
@@ -26,7 +30,7 @@ title: Papers
 					<i class="fa fa-file-pdf-o fa-lg"></i>
 				</a>
 				{% if pub.github	%}
-					<a href="https://github.com/{{ pub.github }}">
+					<a href="https://github.com/SchlossLab/{{ pub.github }}">
 						<i class="fa fa-github fa-lg" ></i>
 					</a>
 				{% endif			%}
