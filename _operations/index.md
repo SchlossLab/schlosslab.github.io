@@ -1,4 +1,5 @@
 ---
-layout: operations
+layout: default
+category: operations
 title: Operations
 ---

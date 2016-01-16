@@ -1,5 +1,5 @@
 ---
-layout: news
+layout: default
 category: posts
 title: News
 ---

@@ -1,4 +1,5 @@
 ---
-layout: science
+layout: default
+category: science
 title: Science
 ---
