@@ -1,0 +1,50 @@
+{% comment %}
+	This include function requires the user to provide an array of pages
+	that they would like to include in the picture grid (i.e. pages). The YAML
+	for each file included in the grid needs to have a title (unless it should
+	be ignored) and picture value.
+
+	By default the number of columns in the grid will be 4. This can be altered
+	by changing the columns value.
+
+	Example implementation:
+
+	{% include picture_grid.html pages=site.CATEGORY			%}
+	{% include picture_grid.html pages=site.CATEGORY columns=6	%}
+{% endcomment %}
+
+<div class="picture-grid">
+
+	{%	if include.columns == nil							%}
+	{%		assign columns = 4								%}
+	{%		assign width = 3								%}
+	{%	else												%}
+	{% 		assign columns = include.columns				%}
+	{% 		assign width = 12 | divided_by: include.columns %}
+	{%	endif												%}
+
+	{% assign column_index = 0 %}
+
+	{% for item in include.pages %}
+
+		{% if item.layout != "index_page" %}
+			{% if column_index == 0 %}<div class="row">{% endif %}
+			{% assign column_index = column_index | plus: 1 %}
+			<div class="col-xs-{{width}}">
+				<a href="{{ item.url }}">
+					<img src="{{item.picture}}" alt="{{ item.title }}" class="img-responsive pic" onerror="this.src='/assets/img/missing.jpg'" />
+					<div class="caption">{{ item.title }}</div>
+				</a>
+			</div>
+		{% endif %}
+
+		{% if column_index == include.columns  %}
+			{% assign column_index = 0 %}
+			</div>
+		{% endif %}
+	{% endfor %}
+
+	{% if column_index != 0 %}
+		</div>
+	{% endif %}
+</div>
