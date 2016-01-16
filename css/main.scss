@@ -393,3 +393,44 @@ a {
 		margin-bottom: 30px;
 	}
 }
+
+.labbies {
+	h2 {
+		padding:  0;
+		margin: 0;
+	}
+
+	h3 {
+		padding: 10px 0 0 0;
+		margin: 0;
+	}
+	a, a:hover {
+		color: $match-color;
+		text-decoration: none;
+	}
+
+	.col-md-7 {
+		padding: 0;
+
+	}
+
+	.container-fluid {
+		margin: 0;
+		padding: 0;
+	}
+
+	.social {
+		padding: 0;
+		padding-bottom: 10px;
+		margin: 0;
+	}
+
+	.icon > svg > path {
+		fill: $match-color;
+	}
+
+	ul {
+			margin-left: 20px;
+	}
+
+}

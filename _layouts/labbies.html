@@ -3,6 +3,76 @@ layout: default
 ---
 
 <div class="labbies">
-	<h2>{{ page.title }}</h2>
+	<div class="container-fluid">
+		<div class="row">
+			<div class="col-md-7">
+				<h2>{{ page.title }}</h2>
+
+				<div class="social">
+					{% if page.email	%}
+					<a href="mailto:{{ page.email }}">
+						<i class="fa fa-envelope-o fa-lg"></i>
+					</a>
+					{% endif			%}
+
+					{% if page.twitter	%}
+					<a href="https://twitter.com/{{ page.twitter }}">
+						<i class="fa fa-twitter fa-lg"></i>
+					</a>
+					{% endif			%}
+
+					{% if page.github	%}
+					<a href="https://github.com/{{ site.github }}">
+						<i class="fa fa-github fa-lg"></i>
+					</a>
+					{% endif			%}
+
+					{% if page.linkedin	%}
+					<a href="https://linkedin.com/in/{{ site.github }}">
+						<i class="fa fa-linkedin fa-lg"></i>
+					</a>
+					{% endif			%}
+
+					{% if page.phone	%}
+					• {{ page.phone }}
+					{% endif			%}
+
+					{% if page.website	%}
+					• <a href="{{ page.website }}">WWW</a>
+					{% endif			%}
+				</div>
+
+				<p>
+					{% if page.left_lab == nil %}
+					{{ page.position }} since {{ page.joined_lab }}
+					{%	else					%}
+					{{ page.position }} from {{ page.joined_lab }} to {{ page.left_lab }}
+					{% endif 					%}
+				</p>
+
+				<h3>Research areas</h3>
+				<ul>
+					{%	for theme in page.theme_areas	%}
+					<!--- Need to create links to these theme pages --->
+					<li>{{ theme }}</li>
+					{%	endfor							%}
+				</ul>
+
+				<h3>Education</h3>
+				<ul>
+					{%	for step in page.previous_training	%}
+					<li>{{ step[0] }}: {{ step[1] }}</li>
+					{%	endfor								%}
+				</ul>
+
+			</div>
+			<div class="col-md-5">
+				<img class="img-responsive" src="{{ page.picture }}" alt="{{ page.title }}" />
+			</div>
+		</div>
+	</div>
+
+	<h3>Background</h3>
     {{ content }}
+
 </div>
