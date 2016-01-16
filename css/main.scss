@@ -136,11 +136,17 @@ body {
 	padding: 20px 0 20px 0;
 
 	.container-fluid {
-		margin: 0 40px;
+		margin: 0 auto;
+		padding: 0 40px;
+	}
+	.row {
+		width: 100%;
+		margin: 0;
 		padding: 0;
 	}
 	.col-xs-6 {
 		padding: 0;
+		margin: 0;
 	}
 	p {
 		padding: 0;
@@ -153,6 +159,13 @@ body {
 
 	.icon > svg > path {
 		fill: #fff;
+	}
+
+	.copy {
+		text-align: right;
+	}
+	.address {
+		font-size: 10px;
 	}
 }
 
