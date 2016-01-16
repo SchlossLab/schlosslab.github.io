@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: index_page
 category: science
 title: Science
 ---
