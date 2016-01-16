@@ -7,13 +7,13 @@ title: Papers
 <div class="bibliography">
 
 <ol>
-	{%	for paper_hash in site.data.papers	%}
+	{%	for paper_hash in (site.data.papers reversed)	%}
 		{%	assign pub = paper_hash[1]	%}
 		<li>
 			<b>{{ pub.authors }}.</b>
 			{{ pub.year }}.
 			{{ pub.title }}.
-			{{ pub.journal }}.
+			<i>{{ pub.journal }}</i>.
 			<b>{{ pub.volume }}:</b>
 			{{ pub.pages }}.
 
