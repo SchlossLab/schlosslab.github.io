@@ -16,7 +16,7 @@ theme_areas:
   - Microbial evolution
   - Science Education
   - Cancer
-twitter: DrMkDPhD
+twitter: https://twitter.com/drmkdphd
 github: mkdoherty
 email: mkdohert@med.umich.edu
 linkedin: https://www.linkedin.com/in/matt-doherty-ph-d-a873b170
