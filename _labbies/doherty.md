@@ -19,7 +19,7 @@ theme_areas:
 twitter: DrMkDPhD
 github: mkdoherty
 email: mkdohert@med.umich.edu
-linkedin:https://www.linkedin.com/in/matt-doherty-ph-d-a873b170
+linkedin: https://www.linkedin.com/in/matt-doherty-ph-d-a873b170
 google_scholar:
 orcid: 
 website: http://mkdoherty.github.io
