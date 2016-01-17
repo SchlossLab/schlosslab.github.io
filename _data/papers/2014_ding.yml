@@ -8,7 +8,7 @@ issue: 7500
 pages: 357-60
 doi: 10.1038/nature13178
 github: Ding_HMP_Nature_2014
-data:
+data: http://dingschlossnature.s3-website-us-west-2.amazonaws.com
 labbies: [ schloss, ding ]
 media:
 ---
