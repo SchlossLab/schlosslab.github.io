@@ -6,6 +6,15 @@ title: Papers
 
 <div class="bibliography">
 
+<div class="legend">
+	<h4>Legend</h4>
+	<ul>
+		<li><i class="fa fa-file-pdf-o fa-lg"></i> PDF version of paper</li>
+		<li><i class="fa fa-github fa-lg" ></i> GitHub repository of paper with reproducible version of manuscript</li>
+		<li><i class="fa fa-table fa-lg" ></i> Raw data used in manuscript</li>
+	</ul>
+</div>
+
 <ol>
 	{%	for paper_hash in (site.data.papers reversed)	%}
 		{%	assign pub = paper_hash[1]	%}
