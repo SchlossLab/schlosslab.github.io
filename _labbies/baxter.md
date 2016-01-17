@@ -14,8 +14,8 @@ github: nbaxter13
 email: ntbaxter@umich.edu
 linkedin: niel-baxter-53318541
 google_scholar: https://scholar.google.com/citations?user=nFQl7KMAAAAJ&hl=en
-orcid: 
-website: 
+orcid:
+website:
 phone: (734)936-2951
 ---
 
