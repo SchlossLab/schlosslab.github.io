@@ -7,6 +7,8 @@ volume: 32
 issue:
 pages: 34-6
 doi: 10.1016/j.anaerobe.2014.12.001
+PMID: 25481351
+PMCID: PMC4385462
 github:
 data:
 labbies: [ schubert, sinani, schloss ]

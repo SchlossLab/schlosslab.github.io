@@ -7,6 +7,8 @@ volume: 3
 issue:
 pages: e1487
 doi: 10.7717/peerj.1487
+PMID: 26664811
+PMCID: PMC4675110
 github: Schloss_Cluster_PeerJ_2015
 data:
 labbies: [ westcott, schloss ]

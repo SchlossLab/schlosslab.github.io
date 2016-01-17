@@ -7,6 +7,8 @@ volume: 7
 issue: 11
 pages: 1112-21
 doi: 10.1158/1940-6207.CAPR-14-0129
+PMID: 25104642
+PMCID: PMC4221363
 github: Zackular_EDRN_CancerPrevRes_2014
 data: http://www.mothur.org/MicrobiomeBiomarkerCRC
 labbies: [ schloss, zackular ]

@@ -7,6 +7,8 @@ volume:
 issue:
 pages: e778v1
 doi: 10.7287/peerj.preprints.778v1
+PMID:
+PMCID:
 github: Schloss_PacBio16S_PeerJ_2015
 data: http://www.ncbi.nlm.nih.gov/sra/?term=SRP051686
 labbies: [ schloss, westcott, jenior ]

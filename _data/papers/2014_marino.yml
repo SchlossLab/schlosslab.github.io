@@ -7,6 +7,8 @@ volume: 111
 issue: 1
 pages: 439-44
 doi: 10.1073/pnas.1311322111
+PMID: 24367073
+PMCID: PMC3890833
 github:
 data: http://www.mothur.org/germ_free_model
 labbies: [ schloss, baxter ]

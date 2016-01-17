@@ -7,6 +7,8 @@ volume: 6
 issue: 4
 pages: e00974-15
 doi: 10.1128/mBio.00974-15
+PMID: 26173701
+PMCID: PMC4502226
 github: Schubert_AbxD01_mBio_2015
 data: http://www.ncbi.nlm.nih.gov/sra/?term=SRP057386
 labbies: [ schubert, sinani, schloss ]

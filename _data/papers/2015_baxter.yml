@@ -7,6 +7,8 @@ volume: 81
 issue: 1
 pages: 396-404
 doi: 10.1128/AEM.02303-14
+PMID: 25362056
+PMCID: PMC4272734
 github: Baxter_WildMice_AEM_2014
 data: http://www.ncbi.nlm.nih.gov/sra/?term=SRP044050
 labbies: [ schloss, baxter, schubert, jenior ]
