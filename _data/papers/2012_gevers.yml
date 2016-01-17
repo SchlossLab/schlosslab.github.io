@@ -1,0 +1,16 @@
+---
+title: Bioinformatics for the Human Microbiome Project
+year: 2012
+authors: Gevers D, Pop M, Schloss PD, Huttenhower C
+journal: PLoS Comput Biol
+volume: 8
+issue: 11
+pages: e1002779
+doi: 10.1371/journal.pcbi.1002779
+PMID: 23209389
+PMCID: PMC3510052
+github:
+data:
+labbies: [ schloss ]
+media:
+---
