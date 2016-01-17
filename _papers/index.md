@@ -12,6 +12,7 @@ title: Papers
 		<li><i class="fa fa-file-pdf-o fa-lg"></i> PDF version of paper</li>
 		<li><i class="fa fa-github fa-lg" ></i> GitHub repository of paper with reproducible version of manuscript</li>
 		<li><i class="fa fa-table fa-lg" ></i> Raw data used in manuscript</li>
+		<li><i class="ai ai-google-scholar ai-lg"></i> Google Scholar page</li>
 	</ul>
 </div>
 
@@ -49,6 +50,13 @@ title: Papers
 						<i class="fa fa-table fa-lg" ></i>
 					</a>
 				{% endif			%}
+
+				{% if pub.google_scholar	%}
+				<a href="{{pub.google_scholar}}">
+					<i class="ai ai-google-scholar ai-lg"></i>
+				</a>
+				{% endif			%}
+
 			</div>
 
 		</li>

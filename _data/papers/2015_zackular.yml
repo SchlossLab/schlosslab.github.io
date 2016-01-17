@@ -7,8 +7,10 @@ volume: 1
 issue:
 pages: e00001-e00015
 doi: 10.1128/mSphere.00001-15
+google_scholar:
 PMID: Pending
 PMCID: Pending
+google_scholar: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=xswWwaMAAAAJ&sortby=pubdate&citation_for_view=xswWwaMAAAAJ:iH-uZ7U-co4C
 github: Zackular_Abaomdss_mSphere_2015
 data: http://www.ncbi.nlm.nih.gov/sra/?term=SRP056144
 labbies: [ schloss, baxter, zackular ]

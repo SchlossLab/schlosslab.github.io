@@ -9,6 +9,7 @@ pages: 5112-20
 doi: 10.1128/AEM.01043-13
 PMID: 23793624
 PMCID: PMC3753973
+google_scholar: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=xswWwaMAAAAJ&sortby=pubdate&citation_for_view=xswWwaMAAAAJ:Tyk-4Ss8FVUC
 github: Kozich_MiSeqSOP_AEM_2013
 data: http://www.mothur.org/MiSeqDevelopmentData/
 labbies: [ schloss, kozich, baxter, westcott ]
