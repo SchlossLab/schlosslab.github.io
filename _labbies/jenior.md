@@ -8,7 +8,10 @@ previous_training:
 joined_lab: 2012
 position: PhD Candidate
 theme_areas:
+  - Colonization Resistance
   - Clostridium difficile
+  - Microbial ecology
+  - Bioinformatics
 twitter: mljenior
 github: mjenior
 email: mljenior@umich.edu
