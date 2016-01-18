@@ -1,0 +1,17 @@
+---
+title: Metabolic reconstruction for metagenomic data and its application to the human microbiome
+year: 2012
+authors: Abubucker S, Segata N, Goll J, Schubert AM, Izard J, Cantarel BL, Rodriguez-Mueller B, Zucker J, Thiagarajan M, Henrissat B, White O, Kelley ST, Methé B, Schloss PD, Gevers D, Mitreva M, Huttenhower C
+journal: PLoS Comput Biol
+volume: 8
+issue: 6
+pages: e1002358
+doi: 10.1371/journal.pcbi.1002358
+PMID: 22719234
+PMCID: PMC3374609
+google_scholar: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=xswWwaMAAAAJ&cstart=20&pagesize=80&sortby=pubdate&citation_for_view=xswWwaMAAAAJ:YsMSGLbcyi4C
+github:
+data:
+labbies: [ schloss, schubert ]
+media:
+---

@@ -6,8 +6,18 @@ description: > # this means to ignore newlines until "baseurl:"
    of Michigan in the Department of Microbiology & Immunology
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "http://schlosslab.github.io" # the base hostname & protocol for your site
-twitter_username: pschloss
-github_username:  pschloss
+twitter_username: patschloss
+github_username:  schlosslab
 
 # Build settings
 markdown: kramdown
+
+collections:
+  labbies:
+    output: true
+  science:
+    output: true
+  papers:
+    output: true
+  operations:
+    output: true

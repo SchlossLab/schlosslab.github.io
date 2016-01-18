@@ -1,0 +1,17 @@
+---
+title: Dynamics and associations of microbial community types across the human body
+year: 2014
+authors: Ding T, Schloss PD
+journal: Nature
+volume: 509
+issue: 7500
+pages: 357-60
+doi: 10.1038/nature13178
+PMID: 24739969
+PMCID: PMC4139711
+google_scholar: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=xswWwaMAAAAJ&sortby=pubdate&citation_for_view=xswWwaMAAAAJ:0EnyYjriUFMC
+github: Ding_HMP_Nature_2014
+data: http://dingschlossnature.s3-website-us-west-2.amazonaws.com
+labbies: [ schloss, ding ]
+media:
+---

@@ -1,0 +1,17 @@
+---
+title: Microbiome data distinguish patients with <i>Clostridium difficile</i> infection and non-<i>C. difficile</i>-associated diarrhea from healthy controls
+year: 2014
+authors: Schubert AM, Rogers MA, Ring C, Mogle J, Petrosino JP, Young VB, Aronoff DM, Schloss PD
+journal: mBio
+volume: 5
+issue: 3
+pages: e01021-14
+doi: 10.1128/mBio.01021-14
+PMID: 24803517
+PMCID: PMC4010826
+google_scholar: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=xswWwaMAAAAJ&sortby=pubdate&citation_for_view=xswWwaMAAAAJ:mVmsd5A6BfQC
+github: Schubert_clinical_mBio_2014
+data: http://www.mothur.org/CDI_MicrobiomeModeling
+labbies: [ schloss, schubert ]
+media:
+---

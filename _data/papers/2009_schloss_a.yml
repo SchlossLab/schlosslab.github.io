@@ -1,0 +1,17 @@
+---
+title: "Introducing mothur: open-source, platform-independent, community-supported software for describing and comparing microbial communities"
+year: 2009
+authors: Schloss PD, Westcott SL, Ryabin T, Hall JR, Hartmann M, Hollister EB, Lesniewski RA, Oakley BB, Parks DH, Robinson CJ, Sahl JW, Stres B, Thallinger GG, Van Horn DJ, Weber CF
+journal: Appl Environ Microbiol
+volume: 75
+issue: 23
+pages: 7537-41
+doi: 10.1128/AEM.01541-09
+PMID: 19801464
+PMCID: PMC2786419
+google_scholar: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=xswWwaMAAAAJ&cstart=20&pagesize=80&sortby=pubdate&citation_for_view=xswWwaMAAAAJ:u5HHmVD_uO8C
+github:
+data:
+labbies: [ schloss, westcott ]
+media:
+---

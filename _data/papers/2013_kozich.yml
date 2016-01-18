@@ -1,0 +1,17 @@
+---
+title: Development of a dual-index sequencing strategy and curation pipeline for analyzing amplicon sequence data on the MiSeq Illumina sequencing platform
+year: 2013
+authors: Kozich JJ, Westcott SL, Baxter NT, Highlander SK, Schloss PD
+journal: Appl Environ Microbiol
+volume: 79
+issue: 17
+pages: 5112-20
+doi: 10.1128/AEM.01043-13
+PMID: 23793624
+PMCID: PMC3753973
+google_scholar: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=xswWwaMAAAAJ&sortby=pubdate&citation_for_view=xswWwaMAAAAJ:Tyk-4Ss8FVUC
+github: Kozich_MiSeqSOP_AEM_2013
+data: http://www.mothur.org/MiSeqDevelopmentData/
+labbies: [ schloss, kozich, baxter, westcott ]
+media:
+---
