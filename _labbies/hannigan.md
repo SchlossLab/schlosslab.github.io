@@ -1,5 +1,5 @@
 ---
-title: Geoffrey Hannigan
+title: Geoffrey Hannigan, PhD
 picture: /assets/img/hannigan.jpg
 layout: labbies
 status: current
