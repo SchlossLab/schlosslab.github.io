@@ -19,7 +19,7 @@ twitter: patschloss
 github: pschloss
 email: pschloss@umich.edu
 linkedin:
-google_scholar: https://scholar.google.com/citations?hl=en&view_op=list_works&authuser=1&gmla=AJsN-F5KUrQwQcKKt45Xom44yjJFmMHXAf1MBOpzpWBzAnV63tOEEH4xMYwy7arit7E3JsMyvbJSy2fZ3-D8vbClYDaWQWHsnA&user=xswWwaMAAAAJ
+google_scholar: https://scholar.google.com/citations?user=xswWwaMAAAAJ&hl=en
 orcid: 0000-0002-6935-4275
 website: http://pschloss.github.io
 phone: (734)647-5801
