@@ -17,9 +17,9 @@ title: Papers
 </div>
 
 <ol>
-{% assign tutorials = (site.data.papers | where: "year" , "authors") %}
-	{%	for paper_hash in (tutorials)	%}
-		{%	assign pub = paper_hash[1]	%}
+
+	{%	for pub in site.papers reversed	%}
+		{% if pub.layout != "index_page"%}
 		<li>
 			<b>{{ pub.authors }}.</b>
 			{{ pub.year }}.
@@ -61,6 +61,7 @@ title: Papers
 			</div>
 
 		</li>
+		{% endif %}
 	{%	endfor %}
 </ol>
 </div>
