@@ -30,7 +30,7 @@
 		{% if item.layout != "index_page" %}
 			{% if column_index == 0 %}<div class="row">{% endif %}
 			{% assign column_index = column_index | plus: 1 %}
-			<div class="col-xs-{{width}}">
+			<div class="col-md-{{width}}">
 				<a href="{{ item.url }}">
 					<img src="{{item.picture}}" alt="{{ item.title }}" class="img-responsive pic" onerror="this.src='/assets/img/missing.jpg'" />
 					<div class="caption">{{ item.title }}</div>
