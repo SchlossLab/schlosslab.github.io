@@ -17,7 +17,8 @@ title: Papers
 </div>
 
 <ol>
-	{%	for paper_hash in (site.data.papers reversed)	%}
+{% assign tutorials = (site.data.papers | where: "year" , "authors") %}
+	{%	for paper_hash in (tutorials)	%}
 		{%	assign pub = paper_hash[1]	%}
 		<li>
 			<b>{{ pub.authors }}.</b>
