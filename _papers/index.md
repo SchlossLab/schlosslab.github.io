@@ -36,8 +36,9 @@ title: Papers
 			DOI: <a href="http://doi.org/{{pub.doi}}">{{pub.doi}}</a>.
 			{% endif %}
 
+
 			<div class="supp">
-				<a href="/assets/pdf/{{paper_hash[0]}}.pdf">
+				<a href="{{ pub.url | replace:'yml','pdf' | replace:'papers','assets/pdf'}}">
 					<i class="fa fa-file-pdf-o fa-lg"></i>
 				</a>
 				{% if pub.github	%}
