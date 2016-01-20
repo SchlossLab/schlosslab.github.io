@@ -3,7 +3,6 @@ layout: labbies
 status: current
 title: Kaitlin Flynn
 picture: /assets/img/flynn_anaerobic.jpg
-
 previous_training:
   BA : Earlham College (2010)
   PhD : University of Michigan (2015)
@@ -18,7 +17,7 @@ theme_areas:
 twitter: microkaitlin
 github: FOXFOXFOX
 email: kjflynn@umich.edu
-linkedin: https://www.linkedin.com/in/kaitlinflynn
+linkedin: kaitlinflynn
 google_scholar: https://scholar.google.com/citations?user=kr4GwsIAAAAJ&hl=en
 website: https://about.me/kaitlinflynn
 ---
