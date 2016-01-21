@@ -51,7 +51,7 @@ want to share.
 | 2/10	|	Chalk talk	|	Niel	|	|
 | 2/17	|	Code review	|	Matt J	|	|
 | 2/24	|	Journal club	|	Matt D	|	|
-| 3/2	|	Research talk	|	Amanda	|	|
+| 3/2	|	Open	|	XXXX	|	|
 | 3/9	|	Chalk talk	|	Marc	|	|
 | 3/16	|	Code review	|	Kaitlin	|	|
 | 3/23	|	Journal club	|	Geof	|	|
@@ -59,7 +59,7 @@ want to share.
 | 4/6	|	Code review	|	Niel	|	|
 | 4/13	|	Journal club	|	Matt J	|	|
 | 4/20	|	Research talk	|	Matt D	|	|
-| 4/27	|	Chalk talk	|	Amanda	|	|
+| 4/27	|	Open	|	XXXX	|	|
 | 5/4	|	Code review	|	Marc	|	|
 | 5/11	|	Journal club	|	Kaitlin	|
 | 5/18	|	Research talk	|	Geof	|	|
