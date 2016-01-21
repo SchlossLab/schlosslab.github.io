@@ -1,7 +1,6 @@
 ---
-layout: page
+layout: index_page
 title: Schedule
-permalink: /schedule/
 ---
 
 We meet for our weekly lab meetings on Wednesdays at 3:30 PM in 1530 MSRB I. We
