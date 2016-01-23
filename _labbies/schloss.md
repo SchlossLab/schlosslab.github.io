@@ -21,6 +21,7 @@ email: pschloss@umich.edu
 linkedin:
 google_scholar: https://scholar.google.com/citations?user=xswWwaMAAAAJ&hl=en
 orcid: 0000-0002-6935-4275
+research_gate: Patrick_Schloss2
 website: http://pschloss.github.io
 phone: (734)647-5801
 ---
