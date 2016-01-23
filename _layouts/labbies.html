@@ -96,4 +96,27 @@ layout: default
 	<h3>Background</h3>
     {{ content }}
 
+
+	{% assign labbie = page.url | remove:'/labbies/' | remove:'.html' %}
+	{% assign labbie_papers = site.array %}
+	{% for paper in site.papers reversed %}
+		{% if paper.labbies contains labbie %}
+			{% assign labbie_papers = labbie_papers | push: paper %}
+		{% endif %}
+	{% endfor %}
+
+	{% assign paper_count = labbie_papers | size %}
+	{% if paper_count > 0 %}
+		{% assign sorted_papers = labbie_papers | sort: 'year' %}
+
+		<h3>Schloss lab papers</h3>
+		<div class="papers">
+			<ol>
+				{% for paper in sorted_papers %}
+				<li>{% include reference.html ref=paper %}</li>
+				{% endfor %}
+			</ol>
+		</div>
+
+	{% endif %}
 </div>

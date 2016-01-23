@@ -414,7 +414,7 @@ a {
 	}
 
 	h3 {
-		padding: 10px 0 0 0;
+		padding: 10px 0 10px 0;
 		margin: 0;
 	}
 	a, a:hover {
@@ -443,7 +443,16 @@ a {
 	}
 
 	ul {
-			margin-left: 20px;
+		margin-left: 20px;
+	}
+
+	.papers {
+		ol {
+		}
+		li {
+			padding-bottom: 10px;
+		}
+
 	}
 
 }
@@ -456,13 +465,6 @@ a {
 		font-weight: 600;
 		font-size: 24px;
 
-	}
-	.supp {
-		display: inline-block;
-
-		a {
-			text-decoration: none;
-		}
 	}
 
 	li {
@@ -482,4 +484,16 @@ a {
 			padding: 0;
 		}
 	}
+}
+
+.reference {
+
+	.supp {
+		display: inline-block;
+
+		a {
+			text-decoration: none;
+		}
+	}
+
 }

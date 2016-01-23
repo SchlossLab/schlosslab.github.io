@@ -1,0 +1,42 @@
+<div class="reference">
+
+	<b>{{ include.ref.authors }}.</b>
+	{{ include.ref.year }}.
+	{{ include.ref.title }}.
+	<i>{{ include.ref.journal }}</i>.
+
+	{% if include.ref.volume %}
+	<b>{{ include.ref.volume }}:</b>
+	{% endif %}
+
+	{{ include.ref.pages }}.
+
+	{% if include.ref.doi %}
+	DOI: <a href="http://doi.org/{{include.ref.doi}}">{{include.ref.doi}}</a>.
+	{% endif %}
+
+
+	<div class="supp">
+		<a href="{{ include.ref.url | replace:'yml','pdf' | replace:'papers','assets/pdf'}}">
+			<i class="fa fa-file-pdf-o fa-lg"></i>
+		</a>
+		{% if include.ref.github	%}
+			<a href="https://github.com/SchlossLab/{{ include.ref.github }}">
+				<i class="fa fa-github fa-lg" ></i>
+			</a>
+		{% endif			%}
+
+		{% if include.ref.data		%}
+			<a href="{{include.ref.data}}">
+				<i class="fa fa-table fa-lg" ></i>
+			</a>
+		{% endif			%}
+
+		{% if include.ref.google_scholar	%}
+		<a href="{{include.ref.google_scholar}}">
+			<i class="ai ai-google-scholar ai-lg"></i>
+		</a>
+		{% endif			%}
+
+	</div>
+</div>
