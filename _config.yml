@@ -20,10 +20,9 @@ collections:
     output: true
   papers:
     output: true
-  operations:
+  fish_bowl:
     output: true
 
 
 gems:
   - jekyll-sitemap
-
