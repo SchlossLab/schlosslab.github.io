@@ -21,6 +21,7 @@ email: marcsze@med.umich.edu
 linkedin: marc-sze-b1a1a573
 google_scholar: https://scholar.google.ca/citations?user=QarWFjoAAAAJ&hl=en
 orcid:
+research_gate: Marc_Sze
 website:
 phone:
 ---
