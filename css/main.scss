@@ -167,6 +167,13 @@ body {
 	.address {
 		font-size: 10px;
 	}
+	.attribution {
+		font-size: 10px;
+		padding-top: 20px;
+		a {
+			text-decoration: underline;
+		}
+	}
 }
 
 .intro {
