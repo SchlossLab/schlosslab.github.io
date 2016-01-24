@@ -65,12 +65,11 @@ body {
 
 .container-fluid {
 	width: 100%;
-	padding: 0 20px;
+	padding: 0;
 }
 
 .row {
 	margin: 0;
-
 }
 
 .header {
@@ -478,9 +477,22 @@ a {
 		padding-bottom: 20px;
 	}
 
+	.col-md-8, .col-md-4 {
+		padding: 0;
+	}
+
+	.row {
+		margin-bottom: 30px;
+	}
+
 	.legend {
-		padding-bottom: 30px;
-		margin-left: 30px;
+		padding: 10px;
+		margin-left: 10px;
+		border: solid 2px;
+
+		h4 {
+			padding-bottom: 5px;
+		}
 		ul {
 			margin: 0;
 			padding: 0;
