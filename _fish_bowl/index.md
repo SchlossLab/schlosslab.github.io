@@ -12,3 +12,4 @@ These resources are intended for members of the Schloss Lab and give outsiders a
 
 <h3>Protocols</h3>
 * [MiSeq wetlab protocol](https://github.com/SchlossLab/MiSeq_WetLab_SOP)
+* [Setting up a new project](https://github.com/SchlossLab/new_project)
