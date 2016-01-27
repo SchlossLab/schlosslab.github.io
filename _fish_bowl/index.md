@@ -12,5 +12,9 @@ These resources are intended for members of the Schloss Lab and give outsiders a
 * [I'm new to the lab](n00b.html)
 
 <h3>Protocols</h3>
+* [MiSeq mothur SOP](http://www.mothur.org/wiki/MiSeq_SOP)
 * [MiSeq wetlab protocol](https://github.com/SchlossLab/MiSeq_WetLab_SOP)
 * [Setting up a new project](https://github.com/SchlossLab/new_project)
+
+<h3>Lab Life Hacks</h3>
+* Idears?
