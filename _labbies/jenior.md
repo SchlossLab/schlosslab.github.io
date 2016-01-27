@@ -10,6 +10,7 @@ position: PhD Candidate
 theme_areas:
   - Colonization Resistance
   - Clostridium difficile
+  - Mouse models
   - Microbial ecology
   - Bioinformatics
 twitter: mljenior
