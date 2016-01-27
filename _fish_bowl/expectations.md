@@ -93,6 +93,7 @@ Make the research group look good by your research, behavior, commitment, and ci
 * Consult the lab when new people will potentially join us
 * Review drafts within 24-48 hours of receiving them
 * Make room on my schedule to meet with you within 3 days of request; will make room for a weekly meeting if needed. This presumes that you are current on sending me weekly progress reports
+* At least once a year I will review your your [Individual Development Plan (IDP)](http://sitemaker.umich.edu/pibs.tracker/home) (students and postdocs) and provide written feedback regarding your work in the lab. I will discuss these items with you in person
 * Give information about career development and funding opportunities as I learn of them
 * Be your biggest advocate
 * Nominate you for awards as appropriate
@@ -109,7 +110,8 @@ Make the research group look good by your research, behavior, commitment, and ci
 * Obtain at least a B in each of your courses
 * Pass preliminary exam on your first try
 * Develop the concepts for your checkpoint proposal with me, but write it independently of me
-* Investigate and apply for appropriate funding opportunities with discussion and advice from their faculty mentor(s).
+* Investigate and apply for appropriate funding opportunities with discussion and advice from their faculty mentor(s)
+* Complete and keep up to date your [Individual Development Plan (IDP)](http://sitemaker.umich.edu/pibs.tracker/home)
 * At least two accepted peer-reviewed papers before you defend (but you will be able to get more than three). Note this is beyond the departmental requirement of one peer-reviewed publication
 * As a senior graduate student, look for opportunities to mentor undergraduates
 * Fight for your project - don't let me break it up to give to someone else
@@ -121,6 +123,7 @@ Make the research group look good by your research, behavior, commitment, and ci
 #### Postdocs
 * Finish papers from you PhD in a timely manner, preferably outside of normal business hours
 * Talk with me about pursuing funding opportunities
+* Complete and keep up to date your [Individual Development Plan (IDP)](http://sitemaker.umich.edu/pibs.tracker/home)
 * Work with me to find a project
 * Own and drive your project
 * Look to me more for suggests than direction
