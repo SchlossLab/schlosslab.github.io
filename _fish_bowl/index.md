@@ -9,6 +9,7 @@ These resources are intended for members of the Schloss Lab and give outsiders a
 <h3>Lab business</h3>
 * [Meeting schedule](schedule.html)
 * [Expectations](expectations.html)
+* [I'm new to the lab](n00b.html)
 
 <h3>Protocols</h3>
 * [MiSeq wetlab protocol](https://github.com/SchlossLab/MiSeq_WetLab_SOP)
