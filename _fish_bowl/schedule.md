@@ -27,26 +27,6 @@ want to share.
 
 | Date  | Format           | Who       | Resources                                |
 |-------|------------------|-----------|:-----------------------------------------|
-| 9/23	|	Code review	|	Kathryn	|	|
-| 9/30	|	Journal club	|	Niel	|	|
-| 10/7	|	Research talk	|	Matt J	|	|
-| 10/14	|	Chalk talk	|	Matt D	|	|
-| 10/21	|	Code review	|	Amanda	|	|
-| 10/28	|	Journal club	|	Marc	|	|
-| 11/4	|	Research talk	|	Kaitlin	|	|
-| 11/11	|	Chalk talk	|	Geof	|	|
-| 11/18	|	Journal club	|	Kathryn	|	|
-| 11/25	|	Thanksgiving	|	|
-| 12/2	|	Research talk	|	Niel	|	|
-| 12/9	|	Chalk talk	|	Matt J	|	|
-| 12/16	|	Code review	|	Matt D	|	|
-| 12/23	|	Break	|	|
-| 12/30	|	Break	|	|
-| 1/6	|	Journal club	|	Amanda	|	|
-| 1/13	|	Research talk	|	Marc	|	|
-| 1/20	|	Chalk talk	|	Kaitlin	|	|
-| 1/27	|	Code review	|	Geof	|	|
-| 2/3	|	Research talk	|	Kathryn	|	|
 | 2/10	|	Chalk talk	|	Niel	|	|
 | 2/17	|	Code review	|	Matt J	|	|
 | 2/24	|	Journal club	|	Matt D	|	|
@@ -99,6 +79,26 @@ want to share.
 | 9/2/15	| Research talk    | Matt J     |   |
 | 9/9/15	| Chalk talk       | Amanda     |   |
 | 9/16/15	| Journal club     | Matt D     |   |
+| 9/23/15	|	Code review	|	Kathryn	|	|
+| 9/30/15	|	Journal club	|	Niel	|	|
+| 10/7/15	|	Research talk	|	Matt J	|	|
+| 10/14/15	|	Chalk talk	|	Matt D	|	|
+| 10/21/15	|	Code review	|	Amanda	|	|
+| 10/28/15	|	Journal club	|	Marc	|	|
+| 11/4/15	|	Research talk	|	Kaitlin	|	|
+| 11/11/15	|	Chalk talk	|	Geof	|	|
+| 11/18/15	|	Journal club	|	Kathryn	|	|
+| 11/25/15	|	Thanksgiving	|	|
+| 12/2/15	|	Research talk	|	Niel	|	|
+| 12/9/15	|	Chalk talk	|	Matt J	|	|
+| 12/16/15	|	Code review	|	Matt D	|	|
+| 12/23/15	|	Break	|	|
+| 12/30/15	|	Break	|	|
+| 1/6/15	|	Journal club	|	Amanda	|	|
+| 1/13/15	|	Research talk	|	Marc	|	|
+| 1/20/15	|	Chalk talk	|	Kaitlin	|	|
+| 1/27/15	|	Code review	|	Geof	|	|
+| 2/3/15	|	Research talk	|	Kathryn	|	|
 
 <br>
 
