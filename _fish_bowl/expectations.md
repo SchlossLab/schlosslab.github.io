@@ -81,13 +81,13 @@ Make the research group look good by your research, behavior, commitment, and ci
   * I cannot read minds and bodies
   * If you are sick physically or mentally, I need to know
   * We can work out leaves of absence, reduced hours, altered expectations, etc
-  * respect and uphold all relevant University policies regarding professional conduct, including but not limited to the [Code of Academic Conduct](#), the University Policy on Nondiscrimination, Sexual Harassment and Student Records and Privacy
+  * respect and uphold all relevant University policies regarding professional conduct, including but not limited to the [Code of Academic Conduct](http://www.rackham.umich.edu/current-students/policies/academic-policies/section11), [University Policy on Nondiscrimination](https://hr.umich.edu/working-u-m/workplace-improvement/office-institutional-equity/nondiscrimination-policy-notice), [Sexual Harassment](http://spg.umich.edu/policy/201.89-0), and [Student Records and Privacy](http://ro.umich.edu/ferpa/).
 
 
 ### Specific expectations for each rank of labbie
 
-#### I promise to...
-* Give a damn  
+#### Me
+* I promise to give a damn  
 * Fight like hell to keep funding
 * Do everything I can to mentor you to receive a PhD in 5 years after joining my lab
 * Consult the lab when new people will potentially join us
@@ -104,7 +104,7 @@ Make the research group look good by your research, behavior, commitment, and ci
 * Be enthusiastic about all everyone's project
 * Protect confidences and will not discuss you with any other students. I may seek mentoring advice from people I respect and will always do so with your best interest in mind
 * Do my best to maintain a team of scientists that is demographically and scientifically diverse
-* If you think that I have broken these promises, then you have the right to call me on it. If you do not think that is likely to be productive, you should contact the departmental chairperson, Dr. Harry Mobley who can set up an independent arbitration process
+* If you think that I have broken these promises, then you have the right to call me on it. If you do not think that is likely to be productive, you should contact the departmental chairperson, Dr. Harry Mobley or [Rackham](http://www.rackham.umich.edu/current-students/help/resolution) who can set up an independent arbitration process.
 
 #### Graduate students
 * Obtain at least a B in each of your courses
