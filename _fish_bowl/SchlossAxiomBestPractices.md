@@ -3,6 +3,14 @@ layout: index_page
 title: Best Practices: Axiom Cluster
 ---
 
+##Preamble
+This page outlines the organizational standards of the Schloss-data shared directory on the University of Michigan Axiom cluster. The goals of this outline are to:
+
+1. Articulate guidlines for preserving organization of shared data.
+2. Maximize disk space by minimizing data redundancies and out-of-date files
+3. Prevent confusion while differentiating current and legacy versions.
+4. Promote a high standard of version control.
+
 ## File Structure
 ####Summary
 ```bash
