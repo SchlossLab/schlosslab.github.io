@@ -1,6 +1,6 @@
 ---
 layout: index_page
-title: Best Practices: Axiom Cluster
+title: Organization of Schloss-data folder
 ---
 
 ##Preamble
