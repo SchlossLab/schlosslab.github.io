@@ -15,6 +15,7 @@ These resources are intended for members of the Schloss Lab and give outsiders a
 * [MiSeq mothur SOP](http://www.mothur.org/wiki/MiSeq_SOP)
 * [MiSeq wetlab protocol](https://github.com/SchlossLab/MiSeq_WetLab_SOP)
 * [Setting up a new project](https://github.com/SchlossLab/new_project)
+* [Organization of Schloss-data folder](schloss-data_shared_directory.html)
 
 <h3>Lab Life Hacks</h3>
 * Idears?
