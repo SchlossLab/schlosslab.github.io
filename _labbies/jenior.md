@@ -18,7 +18,7 @@ github: mjenior
 email: mljenior@umich.edu
 linkedin: matthew-jenior-61466662
 google_scholar: https://scholar.google.com/scholar?hl=en&q=author%3A%22Matthew+Jenior%22&btnG=&as_sdt=1%2C23&as_sdtp=
-website: http://mjenior.github.io/
+website: http://mattjenior.com
 phone: (734)936-2951
 orcid:
 ---
