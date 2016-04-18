@@ -33,11 +33,11 @@ want to share.
 | 5/11	|	Pat	|	Reproducible writing	|	|
 | 5/18	|	Research talk	|	Geof	|	|
 | 5/25 | Chalk talk | Matt J* ||
-| 6/2 | Code review | Matt D ||
-| 6/9 | Journal club | Nick ||
-| 6/16 | Research talk | Kaitlin ||
-| 6/23 | Chalk talk | Geof ||
-| 6/30 | Code review | Marc ||
+| 6/1 | Code review | Matt D ||
+| 6/8 | Journal club | Nick ||
+| 6/15 | Research talk | Kaitlin ||
+| 6/22 | Chalk talk | Geof ||
+| 6/29 | Code review | Marc ||
 | 7/6 | Research talk | Matt J ||
 | 7/13 | Journal club | Matt D* ||
 | 7/20 | Research talk | Marc ||
