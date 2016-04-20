@@ -30,7 +30,7 @@ want to share.
 | 4/20	|	Research talk	|	Matt D	|	|
 | 4/27	|	Journal club	|	Kaitlin	|
 | 5/4	|	Code review	|	Marc	|	|
-| 5/11	|	Pat	|	Reproducible writing	|	|
+| 5/11	|	Reproducible writing | Pat |	|
 | 5/18	|	Research talk	|	Geof	|	|
 | 5/25 | Chalk talk | Matt J* ||
 | 6/1 | Code review | Matt D ||
