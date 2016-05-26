@@ -27,21 +27,26 @@ want to share.
 
 | Date  | Format           | Who       | Resources                                |
 |-------|------------------|-----------|:-----------------------------------------|
-| 2/10	|	Chalk talk	|	Niel	|	|
-| 2/17	|	Code review	|	Matt J	|	|
-| 2/24	|	Journal club	|	Matt D	|	|
-| 3/2	|	Open	|	XXXX	|	|
-| 3/9	|	Chalk talk	|	Marc	|	|
-| 3/16	|	Code review	|	Kaitlin	|	|
-| 3/23	|	Journal club	|	Geof	|	|
-| 3/30	|	Chalk talk	|	Kathryn	|	|
-| 4/6	|	Code review	|	Niel	|	|
-| 4/13	|	Journal club	|	Matt J	|	|
 | 4/20	|	Research talk	|	Matt D	|	|
-| 4/27	|	Open	|	XXXX	|	|
+| 4/27	|	Journal club	|	Kaitlin	|
 | 5/4	|	Code review	|	Marc	|	|
-| 5/11	|	Journal club	|	Kaitlin	|
+| 5/11	|	Reproducible writing | Pat |	|
 | 5/18	|	Research talk	|	Geof	|	|
+| 5/25 | Chalk talk | Matt J* ||
+| 6/1 | Code review | Matt D ||
+| 6/8 | Journal club | Nick ||
+| 6/15 | Research talk | Kaitlin ||
+| 6/22 | Chalk talk | Geof ||
+| 6/29 | Code review | Marc ||
+| 7/6 | Research talk | Matt J ||
+| 7/13 | Journal club | Matt D* ||
+| 7/20 | Research talk | Marc ||
+| 7/27 | Chalk talk | Kaitlin* ||
+| 8/3 | Code review | Geof ||
+| 8/10 | Chalk talk | Nick ||
+| 8/17 | Research talk | Matt D ||
+| 8/24 | Journal club | Matt J* ||
+| 8/31 | Code review | Kaitlin* ||
 | 	|	|	|	|
 | 1/14/15	| [Code review](http://www.riffomonas.org/talks/2015 01 14 CodeReview.html)      | Pat       | [Code review](http://arxiv.org/pdf/1311.2412v1.pdf), [R style guide](http://google-styleguide.googlecode.com/svn/trunk/Rguide.xml), [testthat](http://journal.r-project.org/archive/2011-1/RJournal 2011-1 Wickham.pdf)
 | 1/21/15	| GitHub Training* | NA     |   |
@@ -94,16 +99,26 @@ want to share.
 | 12/16/15	|	Code review	|	Matt D	|	|
 | 12/23/15	|	Break	|	|
 | 12/30/15	|	Break	|	|
-| 1/6/15	|	Journal club	|	Amanda	|	|
-| 1/13/15	|	Research talk	|	Marc	|	|
-| 1/20/15	|	Chalk talk	|	Kaitlin	|	|
-| 1/27/15	|	Code review	|	Geof	|	|
-| 2/3/15	|	Research talk	|	Kathryn	|	|
+| 1/6/16	|	Journal club	|	Amanda	|	|
+| 1/13/16	|	Research talk	|	Marc	|	|
+| 1/20/16	|	Chalk talk	|	Kaitlin	|	|
+| 1/27/16	|	Code review	|	Geof	|	|
+| 2/3/16	|	Research talk	|	Kathryn	|	|
+| 2/10/16	|	Chalk talk	|	Niel	|	|
+| 2/17/16	|	Code review	|	Matt J	|	|
+| 2/24/16	|	Journal club	|	Matt D	|	|
+| 3/2/16	|	Open	|	XXXX	|	|
+| 3/9/16	|	Chalk talk	|	Marc	|	|
+| 3/16/16	|	Code review	|	Kaitlin	|	|
+| 3/23/16	|	Journal club	|	Geof	|	|
+| 3/30/16	|	Chalk talk	|	Kathryn	|	|
+| 4/6/16	|	Code review	|	Niel	|	|
+| 4/13/16	|	Journal club	|	Matt J	|	|
 
 <br>
 
 \* Pat will be out these days. When there are journal clubs on these dates, the
-lab will still be expected to meet and discuss the papers.
+lab will still be expected to meet.
 
 ***Note:***
 If you need to switch dates with someone, you need to switch the format with

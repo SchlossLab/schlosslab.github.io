@@ -20,7 +20,7 @@ github: marcsze
 email: marcsze@med.umich.edu
 linkedin: marc-sze-b1a1a573
 google_scholar: https://scholar.google.ca/citations?user=QarWFjoAAAAJ&hl=en
-orcid:
+orcid: 0000-0002-3532-9653
 research_gate: Marc_Sze
 website:
 phone:

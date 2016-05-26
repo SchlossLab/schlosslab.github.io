@@ -22,7 +22,7 @@ email: ghannig@umich.edu
 linkedin: geoffrey-hannigan-phd-20223928
 google_scholar: https://scholar.google.com/citations?user=DF9ibUMAAAAJ&hl=en
 orcid:
-website: http://prophage.blogspot.com
+website: http://microbiology.github.io
 phone:
 ---
 
