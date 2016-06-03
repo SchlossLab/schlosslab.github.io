@@ -3,7 +3,7 @@ layout: index_page
 title: Schedule
 ---
 
-We meet for our weekly lab meetings on Wednesdays at 3:30 PM in 1530 MSRB I. We
+We meet for our weekly lab meetings on Tuesdays at 9:00 AM in 1530 MSRB I. We
 generally meet for an hour. After 15 min of set up and announcements we have a
 presentation for the remainder of the hour that is led by one individual.
 Each week we rotate around the lab and will cover four different formats:
