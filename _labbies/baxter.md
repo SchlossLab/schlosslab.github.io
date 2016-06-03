@@ -1,6 +1,6 @@
 ---
 layout: labbies
-status: current
+status: alumni
 title: Niel Baxter
 picture: /assets/img/baxter.jpg
 previous_training:

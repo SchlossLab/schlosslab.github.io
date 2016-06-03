@@ -2,7 +2,7 @@
 title: Kathryn Iverson
 picture: /assets/img/iverson_spears.jpg
 layout: labbies
-status: current
+status: alumni
 previous_training:
   BA : Earlham College (2008)
   MS : University of Michigan (2011)
