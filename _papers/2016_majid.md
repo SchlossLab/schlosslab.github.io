@@ -1,0 +1,17 @@
+---
+title: "Microbial Characterization of Qatari Barchan Sand Dunes"
+year: 2016
+authors: Majid SA, Graw MF, Chatziefthimiou AD, Nguyen H, Richer R, Louge M, Sultan AA, Schloss P, Hay AG
+journal: PLOS ONE
+volume: 11
+issue: 9
+pages: e0161836
+doi: 10.1371/journal.pone.0161836
+PMID: 27655399
+PMCID: PMC5031452
+google_scholar:
+github:
+data:
+labbies: [ schloss ]
+media: 
+---
