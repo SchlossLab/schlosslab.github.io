@@ -25,4 +25,4 @@ want to share.
 
 <br>
 
-The current lab meeting schedule is on a [google doc](https://docs.google.com/spreadsheets/d/16equFGApqiclh7cZhtSeMRvSObYCBIRDWCkaFBEtA38/edit?ts=574d7fef#gid=0)
+The current lab meeting schedule is on a [google doc](https://docs.google.com/spreadsheets/d/16equFGApqiclh7cZhtSeMRvSObYCBIRDWCkaFBEtA38)
