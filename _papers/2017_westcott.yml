@@ -1,0 +1,17 @@
+---
+title: "OptiClust, an Improved Method for Assigning Amplicon-Based Sequence Data to Operational Taxonomic Units"
+year: 2017
+authors: Westcott SL, Schloss PD
+journal: mSphere
+volume: 2
+issue: 2
+pages: e00073-17
+doi: 10.1128/mSphereDirect.00073-17
+PMID: 28289728
+PMCID: PMC5343174
+google_scholar: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=xswWwaMAAAAJ&sortby=pubdate&citation_for_view=xswWwaMAAAAJ:It3QlvBKHbMC
+github: Westcott_OptiClust_mSphere_2017
+data:
+labbies: [ westcott, schloss ]
+media: http://www.microbe.tv/twim/twim-149/
+---

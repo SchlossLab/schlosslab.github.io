@@ -1,15 +1,15 @@
 ---
-title: "Preprint: DNA from fecal immunochemical test can replace stool for microbiota-based colorectal cancer screening"
+title: "DNA from fecal immunochemical test can replace stool for detection of colonic lesions using a microbiota-based model"
 year: 2016
 authors: Baxter NT, Koumpouras CC, Rogers MA, Ruffin MT 4th, Schloss PD
-journal: bioRxiv
-volume:
-issue:
-pages:
-doi: 10.1101/048389
+journal: Microbiome
+volume: 4
+issue: 1
+pages: 59
+doi: 10.1186/s40168-016-0205-y
 PMID: PENDING
 PMCID: PENDING
-google_scholar: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=xswWwaMAAAAJ&sortby=pubdate&citation_for_view=xswWwaMAAAAJ:5AlGpL-oHpAC
+google_scholar: https://scholar.google.com/citations?view_op=view_citation&hl=en&user=xzSGpoQAAAAJ&sortby=pubdate&citation_for_view=xzSGpoQAAAAJ:NhqRSupF_l8C
 github: Baxter_FITs_Microbiome_2016
 data: http://www.ncbi.nlm.nih.gov/sra/?term=SRP062005
 labbies: [ schloss, baxter ]
