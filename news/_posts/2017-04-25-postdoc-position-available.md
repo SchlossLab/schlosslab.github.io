@@ -4,8 +4,6 @@ title:  "Postdoctoral training opportunity in the Schloss Lab"
 date:  2017-04-25
 ---
 
-<b>We are no longer taking applications for this opportunity</b>
-
 The laboratory of Patrick D. Schloss at the University of Michigan is recruiting individuals interested in postdoctoral training in the field of microbiome research. Our research group has openings for postdoctoral trainees interested in understanding how gut microbiota affect the progression of diseases including *Clostridium difficile* infections and the severity of colorectal cancer. We primarily use culture-independent tools combined with computational methods to answer biological questions in a community context.
 
 *MINIMUM QUALIFICATIONS:* The successful candidate will have a doctoral degree or equivalent in a related field. They should also have excellent scientific writing ability as demonstrated by at least one publication, strong oral communication skills, the ability to work effectively and with colleagues, and evidence of being an independent self-starter with strong time-management skills.
