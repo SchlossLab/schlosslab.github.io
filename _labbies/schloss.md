@@ -8,7 +8,7 @@ previous_training:
   PhD : Cornell University (2002)
   Postdoc : University of Wisconsin (2006)
 joined_lab: 2006
-position: PI
+position: Professor, Frederick G. Novy Collegiate Professor of Microbiome Research
 theme_areas:
   - Colorectal cancer
   - C. difficile
