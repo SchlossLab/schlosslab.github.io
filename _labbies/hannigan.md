@@ -2,7 +2,7 @@
 title: Geoffrey Hannigan
 picture: /assets/img/hannigan.jpg
 layout: labbies
-status: current
+status: alumni
 previous_training:
   BS : University of Minnesota (2011)
   PhD : University of Pennsylvania (2015)

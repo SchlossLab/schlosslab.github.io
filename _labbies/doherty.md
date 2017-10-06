@@ -1,6 +1,6 @@
 ---
 layout: labbies
-status: current
+status: alumni
 title: Matt Doherty
 picture: /assets/img/doherty.jpg
 previous_training:
