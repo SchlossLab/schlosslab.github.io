@@ -1,0 +1,18 @@
+---
+title: "Support Science by Publishing in Scientific Society Journals"
+year: 2017
+authors: Schloss PD, Johnston M, Casadevall A
+journal: mBio
+volume: 8
+issue: 5
+pages: e01633-17
+doi: 10.1128/mBio.01633-17
+PMID: 28951482
+PMCID: PMC5615203
+preprint:
+google_scholar:
+github: Schloss_SocietyJs_mBio_2017
+data: https://github.com/SchlossLab/Schloss_SocietyJs_mBio_2017/blob/master/data/societies.xlsx
+labbies: [ schloss ]
+media:
+---

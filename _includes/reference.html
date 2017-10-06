@@ -2,14 +2,22 @@
 
 	<b>{{ include.ref.authors }}.</b>
 	{{ include.ref.year }}.
+
+
+	{% if include.ref.journal %}
 	{{ include.ref.title }}.
 	<i>{{ include.ref.journal }}</i>.
+	{% else %}
+	<b>Preprint:</b> {{ include.ref.title }}.
+	{% endif %}
 
 	{% if include.ref.volume %}
 	<b>{{ include.ref.volume }}:</b>
 	{% endif %}
 
+	{% if include.ref.volume %}
 	{{ include.ref.pages }}.
+	{% endif %}
 
 	{% if include.ref.doi %}
 	DOI: <a href="http://doi.org/{{include.ref.doi}}">{{include.ref.doi}}</a>.
@@ -17,9 +25,16 @@
 
 
 	<div class="supp">
+		{% if include.ref.journal %}
 		<a href="{{ include.ref.url | replace:'yml','pdf' | replace:'papers','assets/pdf'}}">
 			<i class="fa fa-file-pdf-o fa-lg"></i>
 		</a>
+		{% endif %}
+		{% if include.ref.preprint %}
+		<a href="{{ include.ref.preprint }}">
+			<i class="fa fa-paypal fa-lg"></i>
+		</a>
+		{% endif			%}
 		{% if include.ref.github	%}
 			<a href="https://github.com/SchlossLab/{{ include.ref.github }}">
 				<i class="fa fa-github fa-lg" ></i>
