@@ -25,4 +25,4 @@ want to share.
 
 <br>
 
-The current lab meeting schedule is on a [google doc](https://docs.google.com/spreadsheets/d/16equFGApqiclh7cZhtSeMRvSObYCBIRDWCkaFBEtA38)
+The current lab meeting schedule is on a <a href="https://docs.google.com/spreadsheets/d/16equFGApqiclh7cZhtSeMRvSObYCBIRDWCkaFBEtA38" target="_blank">google doc</a>.
