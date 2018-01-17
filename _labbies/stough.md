@@ -1,8 +1,8 @@
 ---
 layout: labbies
 status: current
-title: Joshua MA Stough
-picture: /assets/img/stough_img.jpg
+title: Joshua Stough
+picture: /assets/img/stough.jpg
 previous_training:
   BS : Auburn Univeristy (2011)
   MS : Auburn University (2013)

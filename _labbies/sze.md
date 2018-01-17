@@ -8,7 +8,7 @@ previous_training:
   MSc : University of British Columbia (2011)
   PhD : University of British Columbia (2015)
 joined_lab: 2015
-position: Research Fellow
+position: Post-doctoral Research Fellow
 theme_areas:
   - Microbial ecology
   - Lung Bacterial Microbiome
