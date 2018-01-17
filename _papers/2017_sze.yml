@@ -1,18 +1,18 @@
 ---
-title: "The effect of treatment on the microbiota of patients diagnosed with colonic lesions"
+title: "Normalization of the microbiota in patients after treatment for colonic lesions"
 year: 2017
-authors: Sze MA, Schloss PD
-journal:
-volume:
+authors: Sze MA, Baxter NT, Ruffin MT IV, Rogers MAM, Schloss PD
+journal: Microbiome
+volume: 5
 issue:
-pages:
-doi:
-PMID:
-PMCID:
-preprint: https://www.biorxiv.org/content/early/2017/04/21/110858
+pages: 150
+doi: 10.1186/s40168-017-0366-3
+PMID: 29145893
+PMCID: PMC5689185
+preprint: https://doi.org/10.1101/138222
 google_scholar:
 github: Sze_FollowUps_Microbiome_2017
 data: https://www.ncbi.nlm.nih.gov/bioproject/PRJNA362366
-labbies: [ schloss, sze ]
+labbies: [ schloss, baxter, sze ]
 media:
 ---

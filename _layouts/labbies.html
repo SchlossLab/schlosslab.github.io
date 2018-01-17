@@ -113,7 +113,11 @@ layout: default
 		<div class="papers">
 			<ol>
 				{% for paper in sorted_papers %}
-				<li>{% include reference.html ref=paper %}</li>
+					{% if paper.layout == "chapter" %}
+						<li>{% include reference_chapter.html ref=paper %}</li>
+					{% else %}
+						<li>{% include reference_paper.html ref=paper %}</li>
+					{% endif %}
 				{% endfor %}
 			</ol>
 		</div>

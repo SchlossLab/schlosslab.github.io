@@ -26,15 +26,20 @@ title: Papers
 	</div>
 </div>
 <ol reversed>
-	{% assign this_year = (site.time | date: '%Y') %}
+	{% assign this_year = site.time | date: '%Y' | plus: 0 %}
 
 	{% for year in (2000..this_year) reversed %}
 		{% assign year_array = site.papers | where:"year", year		%}
 
 		{% for pub in year_array 	%}
-			{% if pub.layout != "index_page"%}
+
+			{% if pub.layout == "book_chapter" %}
 				<li>
-					{% include reference.html ref=pub%}
+					{% include reference_chapter.html ref=pub %}
+				</li>
+			{% elsif pub.layout != "index_page" %}
+				<li>
+					{% include reference_paper.html ref=pub %}
 				</li>
 			{% endif %}
 		{% endfor %}

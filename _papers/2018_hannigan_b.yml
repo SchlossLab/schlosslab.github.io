@@ -1,6 +1,6 @@
 ---
-title: "Viral and Bacterial Communities of Colorectal Cancer"
-year: 2017
+title: "Diagnostic potential & the interactive dynamics of the colorectal cancer virome"
+year: 2018
 authors: Hannigan GD, Duhaime MB, Ruffin IV MT, Koumpouras CC, Schloss PD
 journal:
 volume:
@@ -9,7 +9,7 @@ pages:
 doi:
 PMID:
 PMCID:
-preprint: https://www.biorxiv.org/content/early/2017/06/20/152868
+preprint: https://doi.org/10.1101/152868
 google_scholar:
 github: Hannigan_CRCVirome_Nature_2017
 data: https://www.ncbi.nlm.nih.gov/bioproject/PRJNA389927
