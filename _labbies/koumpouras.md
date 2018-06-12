@@ -2,9 +2,9 @@
 title: Charlie Koumpouras
 picture: /assets/img/koumpouras.jpg
 layout: labbies
-status: current
+status: alumni
 previous_training:
-  BS: University of Michigan (2011) 
+  BS: University of Michigan (2011)
 joined_lab: 2015
 position: Technician
 theme_areas:
