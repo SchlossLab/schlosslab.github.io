@@ -5,7 +5,7 @@ title: Begüm D. Topçuoğlu
 picture: /assets/img/begumtop.jpg
 previous_training:
    - BS : Sabanci University (2011)
-   - PhD : University of Massachusetts (2016)
+   - PhD : University of Massachusetts (2018)
 joined_lab: 2018
 position: Post-doctoral Research Fellow
 theme_areas:
@@ -15,4 +15,4 @@ github: BTopcuoglu
 google_scholar: https://scholar.google.com/citations?user=btuTiPoAAAAJ&hl=en&oi=ao
 
 ---
-Previously
+Previously, I studied the physiology of (hyper)thermophiles in hot environments such as hydrothermal vents. My work focused on how interspecies cooperation among hyperthermophilic archaea effects subseafloor life. I'm interested in understanding the changes in microbial community and physiology in an  ecosystem upon  perturbations  and  stress  inducing  conditions. My work in the Schloss Lab focuses on the role of host microbiome on colorectal cancer progression. 
