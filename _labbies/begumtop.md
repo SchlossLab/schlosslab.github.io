@@ -2,6 +2,7 @@
 layout: labbies
 status: current
 title: Begüm D. Topçuoğlu
+email: begumtop@umich.edu
 picture: /assets/img/begumtop.jpg
 previous_training:
    - BS : Sabanci University (2011)
