@@ -5,8 +5,8 @@ title: Begüm D. Topçuoğlu
 email: begumtop@umich.edu
 picture: /assets/img/begumtop.jpg
 previous_training:
-   - BS: Sabanci University (2011)
-   - PhD: University of Massachusetts (2018)
+   B.S. : Sabanci University (2011)
+   Ph.D. : University of Massachusetts (2018)
 joined_lab: 2018
 position: Post-doctoral Research Fellow
 theme_areas:
