@@ -1,7 +1,7 @@
 ---
 layout: labbies
 status: current
-title: Begüm D. Topçuoğlu
+title: Begüm Topçuoğlu
 email: begumtop@umich.edu
 picture: /assets/img/begumtop.jpg
 previous_training:
@@ -16,4 +16,4 @@ github: BTopcuoglu
 google_scholar: https://scholar.google.com/citations?user=btuTiPoAAAAJ&hl=en&oi=ao
 
 ---
-Previously, I studied the physiology of (hyper)thermophiles in hot environments such as hydrothermal vents. My work focused on how interspecies cooperation among hyperthermophilic archaea effects subseafloor life. I'm interested in understanding the changes in microbial community and physiology in an  ecosystem upon  perturbations  and  stress  inducing  conditions. My work in the Schloss Lab focuses on the role of host microbiome on colorectal cancer progression. 
+Previously, I studied the physiology of (hyper)thermophiles in hot environments such as hydrothermal vents. My work focused on how interspecies cooperation among hyperthermophilic archaea effects subseafloor life. I'm interested in understanding the changes in microbial community and physiology in an  ecosystem upon  perturbations  and  stress  inducing  conditions. My work in the Schloss Lab focuses on the role of host microbiome on colorectal cancer progression.
