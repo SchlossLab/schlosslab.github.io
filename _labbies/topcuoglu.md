@@ -3,7 +3,7 @@ layout: labbies
 status: current
 title: Begüm Topçuoğlu
 email: begumtop@umich.edu
-picture: /assets/img/begumtop.jpg
+picture: /assets/img/topcuoglu.jpg
 previous_training:
    B.S. : Sabanci University (2011)
    Ph.D. : University of Massachusetts (2018)
