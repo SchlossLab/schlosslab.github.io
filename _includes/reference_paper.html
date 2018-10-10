@@ -36,9 +36,15 @@
 		</a>
 		{% endif			%}
 		{% if include.ref.github	%}
+			{% if include.ref.github contains 'github' %}
+			<a href="{{ include.ref.github }}">
+				<i class="fa fa-github fa-lg" ></i>
+			</a>
+			{% else %}
 			<a href="https://github.com/SchlossLab/{{ include.ref.github }}">
 				<i class="fa fa-github fa-lg" ></i>
 			</a>
+			{% endif %}
 		{% endif			%}
 
 		{% if include.ref.data		%}

@@ -1,6 +1,6 @@
 ---
 layout: labbies
-status: current
+status: alumni
 title: Kaitlin Flynn
 picture: /assets/img/flynn_anaerobic.jpg
 previous_training:
