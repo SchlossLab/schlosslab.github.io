@@ -1,6 +1,6 @@
 ---
 layout: labbies
-status: current
+status: alumni
 title: Marc Sze
 picture: /assets/img/sze.jpg
 previous_training:
