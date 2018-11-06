@@ -10,7 +10,7 @@ joined_lab: 2018
 position: Lab Manager
 theme_areas:
   - Colorectal cancer
-  - *Clostridium difficile*
+  - "<i>Clostridium difficile</i>"
 twitter:
 github:
 email: lubi@med.umich.edu
