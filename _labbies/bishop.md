@@ -1,6 +1,6 @@
 ---
 layout: labbies
-status: alumni
+status: current
 title: Lucas Bishop
 picture: /assets/img/bishop.jpg
 previous_training:
