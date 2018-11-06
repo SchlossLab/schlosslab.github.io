@@ -14,7 +14,7 @@ theme_areas:
 twitter:
 github:
 email: lubi@med.umich.edu
-linkedin:
+linkedin: lucas-bishop-82a367b3/
 google_scholar:
 website:
 ---
