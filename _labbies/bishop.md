@@ -18,3 +18,5 @@ linkedin: lucas-bishop-82a367b3/
 google_scholar:
 website:
 ---
+
+As lab manager, I handle most sequencing related lab work and day-to-day operations of the Schloss lab. My duties include: assisting grad students/post docs with bench work, supply procurement and coordination with external vendors, general lab maintenance, and keeping the lab in compliance with university, state, and federal guidelines.
