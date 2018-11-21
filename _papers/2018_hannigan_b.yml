@@ -1,17 +1,17 @@
 ---
-title: "The Diagnostic Potential & Interactive Dynamics of the Colorectal Cancer Virome"
+title: "The Diagnostic Potential and Interactive Dynamics of the Colorectal Cancer Virome"
 year: 2018
 authors: Hannigan GD, Duhaime MB, Ruffin IV MT, Koumpouras CC, Schloss PD
 journal: mBio
-volume: In press
-issue:
-pages:
-doi:
+volume: 9
+issue: 6
+pages: e02248-18
+doi: 10.1128/mBio.02248-18
 PMID:
 PMCID:
 preprint: https://doi.org/10.1101/152868
 google_scholar:
-github: Hannigan_CRCVirome_Nature_2017
+github: Hannigan_CRCVirome_mBio_2017
 data: https://www.ncbi.nlm.nih.gov/bioproject/PRJNA389927
 labbies: [ schloss, hannigan ]
 media:
