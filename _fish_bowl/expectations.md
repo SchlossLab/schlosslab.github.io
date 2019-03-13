@@ -17,7 +17,7 @@ I care deeply about the physical and mental health of the people that work in an
 * If your health status changes (including pregnancy), tell me in private so that we can investigate how this might affect your ability to work in the lab
 * If you see someone acting in an unsafe manner, simply remind them that they need to do X
 * If you are about to take a course of antibiotics, you should remove yourself from the laboratory until a week after finishing the course of antibiotics. There is a real risk that you could develop a *Clostridium difficile* Infection if you do not
-* For your own professional safety, never gush to Pat about Harvard
+* For your own professional safety, never gush to Pat about Harvard<a href="#footnote"><sup>*</sup></a>
 
 ### Career development is a continuous process
 
@@ -139,3 +139,8 @@ Make the research group look good by your research, behavior, commitment, and ci
 * Communicate your long term career goals to me so that I can help you
 * You will likely be asked to entertain far more of my crazy ideas than anyone else in the lab
 * Although you have finished (or paused) your formal training, I still expect you to continue to develop skills while you work in the lab
+
+-----
+
+<br>
+<sup id="footnote">*</sup> this is a joke, folks. a joke.
