@@ -10,9 +10,11 @@ joined_lab: 2019
 position: PhD Student
 theme_areas:
    - Bioinformatics
-   - Computational Biology
+   - Integrative Omics
 github: kelly-sovacool
 google_scholar: https://scholar.google.com/citations?user=TlglgLgAAAAJ&hl=en
 twitter: kelly_sovacool
 website: https://sovacool.dev
 ---
+
+I'm interested in developing computational tools and data analysis pipelines for microbiome research.
