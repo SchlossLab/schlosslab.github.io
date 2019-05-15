@@ -1,10 +1,10 @@
 ---
 layout: index_page
-title: Organization of Schloss-data folder
+title: Organization of schloss-data folder
 ---
 
 ## Preamble
-This page outlines the organizational standards of the `Schloss-data` shared directory on our mapped drive. The actual path is `/mnt/EXT/Schloss-data`. The goals of this outline are to:
+This page outlines the organizational standards of the `schloss-data` shared directory on our mapped drive. The actual path is `/mnt/EXT/schloss-data`. The goals of this outline are to:
 
 1. Articulate guidlines for preserving organization of shared data.
 2. Maximize disk space by minimizing data redundancies and out-of-date files
@@ -16,7 +16,7 @@ This page outlines the organizational standards of the `Schloss-data` shared dir
 ### Summary
 
 
-	Schloss-data
+	schloss-data
 	├── archive #Archived data from previous lab members and old projects
 	├── bin #Shared scripts that other labbies can use
 	├── dbs #Reference databases and datasets
@@ -28,13 +28,13 @@ This page outlines the organizational standards of the `Schloss-data` shared dir
 
 ### Example
 
-	Schloss-data
+	schloss-data
 	├── archive
 	│   ├── users
 	│   │   ├── alyx.tar.gz
 	│   │   └── zackular.tar.gz
 	│   ├── projects
-	│   │   ├── Schloss_PacBio16S_PeerJ_2016.tar.gz
+	│   │   ├── schloss_PacBio16S_PeerJ_2016.tar.gz
 	│   │   └── Ding_HMP_Nature_2014.tar.gz
 	│   └── README.txt
 	├── bin
@@ -60,6 +60,6 @@ This page outlines the organizational standards of the `Schloss-data` shared dir
 
 ## Server Regulations
 * Create a new project by [cloning the git repository](https://help.github.com/articles/cloning-a-repository/) from GitHub.
-* Projects must be **version controlled** and formatted using the [new project template](https://github.com/SchlossLab/new_project).
+* Projects must be **version controlled** and formatted using the [new project template](https://github.com/schlossLab/new_project).
 * The owner of a project not documented in its parent directory README will be notified before file removal.
 * Questions, comments, concerns, and high fives can be directed to [Geof Hannigan](ghannig@umich.edu).

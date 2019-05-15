@@ -3,15 +3,14 @@ layout: index_page
 title: Schedule
 ---
 
-We meet for our weekly lab meetings on Tuesdays at 9:00 AM in 1530 MSRB I. We
-generally meet for an hour. After 15 min of set up and announcements we have a
-presentation for the remainder of the hour that is led by one individual.
-Each week we rotate around the lab and will cover four different formats:
+We meet for our weekly lab meetings on Tuesdays from 2:30 to 4:30 PM in 1530 MSRB I. We
+generally meet for an hour. After 15 min of set up and announcements we have two
+presentations that are led by separate individuals.
+Each week we rotate around the lab and will cover two of four different formats:
 
 * **Research talk:** An update of your current research progress in the lab.
-This should involved slides. Please send slides to research group by 8 AM on
-Monday morning so people can have a chance to review what you will be talking
-about.
+This should involved slides. Please send slides to research group by Monday
+morning so people can have a chance to review what you will be talking about.
 * **Journal club:** Discussion of a paper that you find worth reading. To cut
 down on the problem of crappy papers, read the paper before you pick it out.
 Send paper to group by the end of the Friday before journal club.
