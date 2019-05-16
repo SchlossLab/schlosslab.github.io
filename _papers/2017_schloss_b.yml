@@ -15,4 +15,5 @@ github: Schloss_SocietyJs_mBio_2017
 data: https://github.com/SchlossLab/Schloss_SocietyJs_mBio_2017/blob/master/data/societies.xlsx
 labbies: [ schloss ]
 media:
+section: culture
 ---

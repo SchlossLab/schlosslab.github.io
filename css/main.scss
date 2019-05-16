@@ -450,19 +450,24 @@ a {
 
 	ul {
 		margin-left: 20px;
+
+		a, a:hover {
+			color: $comp-color;
+			text-decoration: underline;
+		}
 	}
 
-	.papers {
-		ol {
-		}
-		li {
-			padding-bottom: 10px;
-		}
-
-	}
 
 }
 
+.papers {
+	ol {
+	}
+	li {
+		padding-bottom: 10px;
+	}
+
+}
 
 .bibliography {
 	h4 {

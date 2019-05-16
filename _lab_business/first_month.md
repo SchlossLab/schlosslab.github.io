@@ -1,6 +1,6 @@
 ---
 layout: index_page
-title: It's your first day in the lab, now what?
+title: It's your first month in the lab, now what?
 ---
 
 Very few people join the lab with the foundation to do reproducible microbial ecology analysis or an appreciation for how to analyze microbiome data. Over time, we've found a set of tools are pretty critical to success in the lab. We think of this as our [full stack](https://en.wikipedia.org/wiki/Solution_stack) for doing the analytical end as a microbial ecologist who is concerned about the reproducibility of their analysis. Don't feel like you need to master this stack in your first week or month of being in the lab. By going through these tutorials and actually using the tools in your daily work you'll eventually get it. Also, we pride ourselves on being an inclusive community that wants to help each other to grow in these skills. Trust us, before long, you will be helping us with something you assumed we all knew.

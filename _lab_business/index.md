@@ -6,7 +6,7 @@ title: Lab Resources
 
 These resources are intended for members of the Schloss Lab and give outsiders a chance to see how we roll...
 
-<h3>Lab business</h3>
+<h3>Policies</h3>
 * [Lab Social Contract](social_contract.html)
 * [Your first day in the lab](first_day.html)
 * [Your first month in the lab](first_month.html)

@@ -5,7 +5,7 @@ title: Lab Social Contract
 
 Dear Prospective and Current Members of the Schloss Lab,
 
-What I describe below is a social contract that I would like to enter into with you and have you enter into with the other members of the lab. I am very proud of the community of scientists we have attracted to the research group. You would not be in the lab if you were a jerk or a bad scientist. It is important to me that we maintain a supportive environment so that everyone can do their best science. Before the science, my goal is to create an inclusive educational environment where we can grow as people and scientists to achieve our long term scientific and career goals. I might go so far as to say that the science is a vehicle to help individuals develop a long list of skills that may or may not propel them forward as a microbiome scientist - but they will help them to achieve their career goals. Our goals are going to be different for each person and will evolve over time.
+What I describe below is a [social contract](https://en.wikipedia.org/wiki/Social_contract) that I would like to enter into with you and have you enter into with the other members of the lab. I am very proud of the community of scientists we have attracted to the research group. You have been selected to join the lab because Pat and the rest of the group think you’re awesome. It is important to me that we maintain a supportive environment so that everyone can do their best science. Before the science, my goal is to create an inclusive educational environment where we can grow as people and scientists to achieve our long term scientific and career goals. I might go so far as to say that the science is a vehicle to help individuals develop a long list of skills that may or may not propel them forward as a microbiome scientist - but they will help them to achieve their career goals. Our goals are going to be different for each person and will evolve over time.
 
 Undergraduate, graduate, and postdoctoral education are critical components for most careers in science where people value independence and upward mobility. I also care deeply about the development of professional staff in the lab and want to see their skills and interests grow over their tenure in the lab. Although we all differ in our backgrounds, expertise, goals, and interests I seek to maintain a relatively flat organizational structure where each person can have as much access to me as they need. At the same time, I expect everyone in the group to demonstrate leadership by sharing their personal expertise to help advance the work of others.
 
@@ -62,8 +62,7 @@ I care deeply about the physical and mental health of the people that work in an
 
 * Lab meetings - Our weekly lab meeting is a training activity that includes top-down (me to you) and peer-to-peer (you to everyone else) instruction and feedback. Regardless of whether you are in the "instructor" or "learner" role at any given moment, we will benefit from these activities proportional to the effort that you put into them
 	* There is significant latitude for how you approach leading your segment of a lab meeting - feel free to experiment
-  * Research slides should be sent out the Monday before the lab meeting
-  * Papers for journal club should be sent out the Friday before lab meeting
+  * The slides for your research talk, papers for journal club, and anything that needs to be downloaded or installed, should be announced two business days before your lab meeting presentation
   * Everyone is expected to read the slides and paper before lab meeting
   * Only one person speaks at a time
 
