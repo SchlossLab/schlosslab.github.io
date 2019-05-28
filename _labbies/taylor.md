@@ -2,7 +2,7 @@
 layout: labbies
 status: current
 title: Ana Taylor
-picture: 
+picture: /assets/img/taylor.jpg
 previous_training:
   BS : University of Michigan (2021)
 joined_lab: 2018
