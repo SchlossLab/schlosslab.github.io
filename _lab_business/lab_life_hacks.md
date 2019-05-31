@@ -88,8 +88,27 @@ PID	USER	PR	NI	VIRT	RES	SHR	S	%CPU	%MEM	TIME+	COMMAND
 
 Here, `user1` has multiple processes running that are taking up over 100% CPU. As a result, there are few resources left for other users who need to use the login node to do simple tasks like moving files, editing scripts, or checking on jobs. Since the `USER` column corresponds to the user's `uniqname`, you can send them a polite email asking them to kill their processes on the login node and submit them to the job scheduler instead.
 
-
-
 ## Bench Hacks
 
 * Open an issue or a submit a pull request if you have ideas to add here!
+
+## Miscellania
+
+### Nearby Food
+
+Sorted from nearest to farthest from 1526 MSRB I.
+
+### Michigan Dining
+
+* Break room with microwave & fridge in 1510 MSRB I
+* Market on 2nd floor of MSRB II
+* JavaBlu Café in the Taubman Health Sciences library
+* Café in BSRB
+* UH Cafeteria
+* Fields Café in Palmer Commons
+
+### Restaurants
+
+* Angelo's
+* Jimmy John's
+* Casey's Tavern
