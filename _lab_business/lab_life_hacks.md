@@ -92,7 +92,7 @@ Here, `user1` has multiple processes running that are taking up over 100% CPU. A
 
 * Open an issue or a submit a pull request if you have ideas to add here!
 
-## Miscellania
+## Miscellanea
 
 ### Nearby Food
 
