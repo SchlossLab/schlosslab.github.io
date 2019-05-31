@@ -98,7 +98,7 @@ Here, `user1` has multiple processes running that are taking up over 100% CPU. A
 
 Sorted from nearest to farthest from 1526 MSRB I.
 
-### Michigan Dining
+#### Michigan Dining
 
 * Break room with microwave & fridge in 1510 MSRB I
 * Market on 2nd floor of MSRB II
@@ -107,7 +107,7 @@ Sorted from nearest to farthest from 1526 MSRB I.
 * UH Cafeteria
 * Fields Café in Palmer Commons
 
-### Restaurants
+#### Restaurants
 
 * Angelo's
 * Jimmy John's
