@@ -19,4 +19,5 @@ These resources are intended for members of the Schloss Lab and give outsiders a
 * [Organization of Schloss-data folder](schloss-data_shared_directory.html)
 
 <h3>Lab Life Hacks</h3>
-* Idears?
+* Check out our lab life hacks [here](lab_life_hacks.html).
+* If you have ideas to add, add an [issue](https://github.com/SchlossLab/schlosslab.github.io/issues) or even submit a pull request on GitHub!
