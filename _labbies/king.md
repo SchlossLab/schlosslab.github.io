@@ -2,7 +2,7 @@
 layout: labbies
 status: current
 title: Jacob King
-picture: /assets/img/taylor.jpg
+picture: /assets/img/king.jpg
 previous_training:
   BS : University of Michigan (2022)
 joined_lab: 2019
@@ -15,4 +15,4 @@ email: kingjaco@umich.edu
 
 ---
 
-I am studying Cellular and Molecular Biomedical Sciences and plan on getting a Masters in Biomedical Engineering. I work with Sarah Tomkovich on research inolving the gut microbiome and Clostridium difficile infection. 
+I am studying Cellular and Molecular Biomedical Sciences and plan on getting a Masters in Biomedical Engineering. I work with Sarah Tomkovich on research inolving the gut microbiome and Clostridium difficile infection.
