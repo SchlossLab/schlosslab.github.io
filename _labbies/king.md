@@ -2,7 +2,7 @@
 layout: labbies
 status: current
 title: Jacob King
-picture: /assets/img/taylor.jpg
+picture: /assets/img/king.jpg
 previous_training:
   BS : University of Michigan (2022)
 joined_lab: 2019
