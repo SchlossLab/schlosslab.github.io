@@ -11,7 +11,7 @@ position: Post-doctoral Research Fellow
 theme_areas:
   - Intestinal Microbiome
   - Colorectal Cancer
-  - _Clostridium difficile_
+  - <i>Clostridium difficile</i> infection
 github: tomkoset
 email: tomkoset@umich.edu
 linkedin: sarah-tomkovich
