@@ -15,4 +15,5 @@ github: Doherty_CDprediction_mBio_2017
 data: https://www.ncbi.nlm.nih.gov/bioproject/PRJNA418765
 labbies: [ schloss, ding, koumpouras, doherty ]
 media:
+section: microbiome
 ---

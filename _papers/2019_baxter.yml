@@ -15,4 +15,5 @@ github:
 data: https://www.ncbi.nlm.nih.gov/sra/SRP161616
 labbies: [ schloss, baxter, lesniak ]
 media:
+section: microbiome
 ---

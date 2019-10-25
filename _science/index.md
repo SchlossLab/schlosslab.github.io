@@ -18,7 +18,7 @@ There are 1.4 million people in the US with a history of colorectal cancer (CRC)
 
 {% assign paper_count = section_papers | size %}
 {% if paper_count > 0 %}
-	{% assign sorted_papers = section_papers | sort: 'year' | reverse %}
+	{% assign sorted_papers = section_papers | sort: 'year' | reverse | slice:0, 5 %}
 
 <div class="papers">
 	<ol>
@@ -50,7 +50,7 @@ There are 1.4 million people in the US with a history of colorectal cancer (CRC)
 
 {% assign paper_count = section_papers | size %}
 {% if paper_count > 0 %}
-	{% assign sorted_papers = section_papers | sort: 'year' | reverse %}
+	{% assign sorted_papers = section_papers | sort: 'year' | reverse | slice:0, 5 %}
 
 <div class="papers">
 	<ol>
@@ -81,7 +81,36 @@ There are 1.4 million people in the US with a history of colorectal cancer (CRC)
 
 {% assign paper_count = section_papers | size %}
 {% if paper_count > 0 %}
-	{% assign sorted_papers = section_papers | sort: 'year' | reverse %}
+	{% assign sorted_papers = section_papers | sort: 'year' | reverse | slice:0, 5 %}
+
+<div class="papers">
+	<ol>
+		{% for paper in sorted_papers %}
+			{% if paper.layout == "chapter" %}
+				<li>{% include reference_chapter.html ref=paper %}</li>
+			{% else %}
+				<li>{% include reference_paper.html ref=paper %}</li>
+			{% endif %}
+		{% endfor %}
+	</ol>
+</div>
+
+{% endif %}
+
+
+### General microbiome research
+
+
+{% assign section_papers = site.array %}
+{% for paper in site.papers reversed %}
+	{% if paper.section contains "microbiome" %}
+		{% assign section_papers = section_papers | push: paper %}
+	{% endif %}
+{% endfor %}
+
+{% assign paper_count = section_papers | size %}
+{% if paper_count > 0 %}
+	{% assign sorted_papers = section_papers | sort: 'year' | reverse | slice:0, 5 %}
 
 <div class="papers">
 	<ol>
@@ -109,7 +138,7 @@ There are 1.4 million people in the US with a history of colorectal cancer (CRC)
 
 {% assign paper_count = section_papers | size %}
 {% if paper_count > 0 %}
-	{% assign sorted_papers = section_papers | sort: 'year' | reverse %}
+	{% assign sorted_papers = section_papers | sort: 'year' | reverse | slice:0, 5 %}
 
 <div class="papers">
 	<ol>

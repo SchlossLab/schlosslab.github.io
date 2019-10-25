@@ -15,4 +15,5 @@ github: https://github.com/SchlossLab/Flynn_LRColon_CancPrevRes_2017
 data: https://www.ncbi.nlm.nih.gov/bioproject/PRJNA418115
 labbies: [ schloss, flynn ]
 media:
+section: cancer
 ---

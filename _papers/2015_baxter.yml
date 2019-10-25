@@ -14,4 +14,5 @@ github: Baxter_WildMice_AEM_2014
 data: http://www.ncbi.nlm.nih.gov/sra/?term=SRP044050
 labbies: [ schloss, baxter, schubert, jenior ]
 media:
+section: microbiome
 ---
