@@ -26,7 +26,7 @@ title: Papers
 	</div>
 </div>
 <ol reversed>
-	{% assign this_year = site.time | date: '%Y' | plus: 0 %}
+	{% assign this_year = site.time | date: '%Y' | plus: 1 %}
 
 	{% for year in (2000..this_year) reversed %}
 		{% assign year_array = site.papers | where:"year", year		%}
