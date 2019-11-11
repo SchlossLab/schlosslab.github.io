@@ -1,18 +1,18 @@
 ---
-title: "The proton pump inhibitor omeprazole does not promote <i>Clostridium difficile</i> colonization in a murine model"
+title: "In Press: The proton pump inhibitor omeprazole does not promote <i>Clostridium difficile</i> colonization in a murine model"
 year: 2019
 authors: Tomkovich S, Lesniak NA, Li Y, Bishop L, Fitzgerald MG, Schloss PD
-journal:
-volume:
-issue:
-pages:
-doi:
+journal: mSphere
+volume: 4
+issue: 6
+pages: e00693-19
+doi: 10.1128/mSphere.00693-19
 PMID:
 PMCID:
 preprint: https://doi.org/10.1101/775411
 google_scholar:
-github: Tomkovich_PPI_XXXX_2019
-data:
+github: Tomkovich_PPI_mSphere_2019
+data: https://www.ncbi.nlm.nih.gov/sra/?term=SRP214830
 labbies: [ schloss, tomkovich, lesniak, bishop ]
 media:
 section: cdiff
