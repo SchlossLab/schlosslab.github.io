@@ -14,4 +14,5 @@ github: Schubert_clinical_mBio_2014
 data: http://www.mothur.org/CDI_MicrobiomeModeling
 labbies: [ schloss, schubert ]
 media:
+section: cdiff
 ---

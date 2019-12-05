@@ -14,4 +14,5 @@ github: Kozich_MiSeqSOP_AEM_2013
 data: http://www.mothur.org/MiSeqDevelopmentData/
 labbies: [ schloss, kozich, baxter, westcott ]
 media:
+section: microbiome
 ---

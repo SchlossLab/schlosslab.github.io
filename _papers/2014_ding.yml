@@ -14,4 +14,5 @@ github: Ding_HMP_Nature_2014
 data: http://dingschlossnature.s3-website-us-west-2.amazonaws.com
 labbies: [ schloss, ding ]
 media:
+section: microbiome
 ---

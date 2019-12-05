@@ -1,0 +1,30 @@
+{% if include.n %}
+	{% assign max_papers = include.n %}
+{% else %}
+	{% assign max_papers = 1000 %}
+{% endif %}
+
+{% assign section_papers = site.array %}
+{% for paper in site.papers reversed %}
+	{% if paper.section contains include.topic %}
+		{% assign section_papers = section_papers | push: paper %}
+	{% endif %}
+{% endfor %}
+
+{% assign paper_count = section_papers | size %}
+{% if paper_count > 0 %}
+	{% assign sorted_papers = section_papers | sort: 'year' | reverse | slice:0, max_papers %}
+
+<div class="papers">
+	<ol>
+		{% for paper in sorted_papers %}
+			{% if paper.layout == "book_chapter" %}
+				<li>{% include reference_chapter.html ref=paper %}</li>
+			{% else %}
+				<li>{% include reference_paper.html ref=paper %}</li>
+			{% endif %}
+		{% endfor %}
+	</ol>
+</div>
+
+{% endif %}
