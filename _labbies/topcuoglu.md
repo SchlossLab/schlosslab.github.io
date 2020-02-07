@@ -1,6 +1,6 @@
 ---
 layout: labbies
-status: current
+status: alumni
 title: Begüm Topçuoğlu
 email: begumtop@umich.edu
 picture: /assets/img/topcuoglu.jpg
