@@ -1,6 +1,7 @@
 ---
 title: "Sequencing 16S rRNA gene fragments using the PacBio SMRT DNA sequencing system"
 year: 2016
+order: 1
 authors: Schloss PD, Jenior ML, Koumpouras CC, Westcott SL, Highlander SK
 journal: PeerJ
 volume: 4

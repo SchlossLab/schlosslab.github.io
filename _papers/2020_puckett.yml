@@ -2,6 +2,7 @@
 layout: book_chapter
 chapter_title: "Metabolomics of the microbiome: Characterizing molecular diversity in complex microbial systems"
 year: 2020
+order: 1
 authors: Puckett SP, Samples RM, Schloss PD, and Balunas MJ
 book_title: "Comprehensive Natural Products III: Chemistry and Biology"
 publisher: "Elsevier"

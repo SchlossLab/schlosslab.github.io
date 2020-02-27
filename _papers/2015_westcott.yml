@@ -1,6 +1,7 @@
 ---
 title: De novo clustering methods outperform reference-based methods for assigning 16S rRNA gene sequences to operational taxonomic units
 year: 2015
+order: 9
 authors: Westcott SL, Schloss PD
 journal: PeerJ
 volume: 3

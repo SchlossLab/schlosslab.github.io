@@ -1,6 +1,7 @@
 ---
 title: A high-throughput DNA sequence aligner for microbial ecology studies
 year: 2009
+order: 2
 authors: Schloss PD
 journal: PLoS One
 volume: 4

@@ -29,7 +29,7 @@ title: Papers
 	{% assign this_year = site.time | date: '%Y' | plus: 1 %}
 
 	{% for year in (2000..this_year) reversed %}
-		{% assign year_array = site.papers | where:"year", year		%}
+		{% assign year_array = site.papers | where:"year", year	| sort: 'order' | reverse	%}
 
 		{% for pub in year_array 	%}
 

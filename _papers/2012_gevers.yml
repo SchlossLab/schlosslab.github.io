@@ -1,6 +1,7 @@
 ---
 title: Bioinformatics for the Human Microbiome Project
 year: 2012
+order: 9
 authors: Gevers D, Pop M, Schloss PD, Huttenhower C
 journal: PLoS Comput Biol
 volume: 8

@@ -1,6 +1,7 @@
 ---
 title: The effects of alignment quality, distance calculation method, sequence filtering, and region on the analysis of 16S rRNA gene-based studies
 year: 2010
+order: 2
 authors: Schloss PD
 journal: PLoS Comput Biol
 volume: 6

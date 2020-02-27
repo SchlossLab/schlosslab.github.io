@@ -1,6 +1,7 @@
 ---
 title: Metabolic reconstruction for metagenomic data and its application to the human microbiome
 year: 2012
+order: 3
 authors: Abubucker S, Segata N, Goll J, Schubert AM, Izard J, Cantarel BL, Rodriguez-Mueller B, Zucker J, Thiagarajan M, Henrissat B, White O, Kelley ST, Methé B, Schloss PD, Gevers D, Mitreva M, Huttenhower C
 journal: PLoS Comput Biol
 volume: 8

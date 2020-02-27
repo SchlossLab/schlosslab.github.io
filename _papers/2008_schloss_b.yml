@@ -1,6 +1,7 @@
 ---
 title: "A statistical toolbox for metagenomics: assessing functional diversity in microbial communities"
 year: 2008
+order: 1
 authors: Schloss PD, Handelsman J
 journal: BMC Bioinformatics
 volume: 9
