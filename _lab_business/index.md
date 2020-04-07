@@ -17,7 +17,8 @@ These resources are intended for members of the Schloss Lab and give outsiders a
 * [MiSeq wetlab protocol](https://github.com/SchlossLab/MiSeq_WetLab_SOP)
 * [Setting up a new project](https://github.com/SchlossLab/new_project)
 * [Organization of Schloss-data folder](schloss-data_shared_directory.html)
+* [Lab-focused tutorial on running jobs on Great Lakes](https://github.com/SchlossLab/Great_Lakes_SLURM)
 
 <h3>Lab Life Hacks</h3>
-* Check out our lab life hacks [here](lab_life_hacks.html).
+* Check out our [lab life hacks](lab_life_hacks.html).
 * If you have ideas to add, add an [issue](https://github.com/SchlossLab/schlosslab.github.io/issues) or even submit a pull request on GitHub!
