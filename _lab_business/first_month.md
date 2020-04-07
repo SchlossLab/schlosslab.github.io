@@ -5,17 +5,19 @@ title: It's your first month in the lab, now what?
 
 Very few people join the lab with the foundation to do reproducible microbial ecology analysis or an appreciation for how to analyze microbiome data. Over time, we've found a set of tools are pretty critical to success in the lab. We think of this as our [full stack](https://en.wikipedia.org/wiki/Solution_stack) for doing the analytical end as a microbial ecologist who is concerned about the reproducibility of their analysis. Don't feel like you need to master this stack in your first week or month of being in the lab. By going through these tutorials and actually using the tools in your daily work you'll eventually get it. Also, we pride ourselves on being an inclusive community that wants to help each other to grow in these skills. Trust us, before long, you will be helping us with something you assumed we all knew.
 
-The Schloss Lab Full Stack includes: mothur, R, knitr, git, bash, and make. In your first month of being in the lab, you should do the following tutorials and do them all on Flux, the high performance computer cluster that the lab uses. If you run into any problems ask Pat, it's very likely that you have run into a common problem or that the problem isn't your fault:
+The Schloss Lab Full Stack includes: mothur, R, knitr, git, bash, and make. In your first month of being in the lab, you should do the following tutorials and do them all on Great Lakes, the high performance computer cluster that the lab uses. If you run into any problems ask Pat, it's very likely that you have run into a common problem or that the problem isn't your fault:
 
 
 ### The Curriculum
-* Getting a flux account
-  * Email <a href="mailto:hpc-support@umich.edu">Flux Help</a> and tell them to add your uniqname to the "Schloss Lab allocation". cc Pat on your email to the Flux Help people since Pat will have to approve your request
-  * Complete and submit the [flux account form](http://arc-ts.umich.edu/fluxform)
-* Become familiar with Flux
-  * `ssh flux.arc-ts.umich.edu`
+* Getting a Great Lakes account
+  * Email <a href="mailto:hpc-support@umich.edu">Great Lakes Help</a> and tell them to add your uniqname to the "Schloss Lab allocation". cc Pat on your email to the Great Lakes Help people (technically they're part of ARC-TS) since Pat will have to approve your request
+  * Complete and submit the [Great Lakes account form](https://arc-ts.umich.edu/login-request/)
+* Become familiar with Great Lakes (be sure to check out the [life hacks](lab_life_hacks.html) page)
+  * `ssh greatlakes.arc-ts.umich.edu`
   * `cd /nfs/turbo/schloss-lab`
   * `mkdir [your uniqname]`
+  * `cd [your uniqname]`
+  * Next time you log in you can do `cd /nfs/turbo/schloss-lab/[your uniqname]` to get back to this point.
 * The tools we use
 	- bash: [Software Carpentry bash tutorial](http://swcarpentry.github.io/shell-novice/)
 	- mothur: [MiSeq SOP](http://www.mothur.org/wiki/MiSeq_SOP) and the [Kozich et al. (2013) paper](/assetts/pdfs/2013_kozich.pdf)
@@ -50,7 +52,7 @@ We are primarily a Mac/Linux lab and we make use of a Linux-based computer clust
 * [mothur](https://github.com/mothur/mothur/releases)
 * [R](https://www.r-project.org)
 	* [Desktop RStudio](https://www.rstudio.com) to make interacting with R easier
-	* [RStudio via ARC-Connect](https://vis-dev.arc-ts.umich.edu/connect/#) to connect to RStudio on flux
+	* [RStudio via ARC-Connect](https://vis-dev.arc-ts.umich.edu/connect/#) to connect to RStudio on flux [ does not appear to be working with Great Lakes ]
 * Text editor (what you use is a personal preference):
 	* [Atom](https://atom.io)
 	*	[Sublime Text](https://www.sublimetext.com)

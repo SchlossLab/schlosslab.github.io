@@ -19,7 +19,7 @@ toc: true
 | Ctrl + E | Move the cursor to the end of the line |
 | Ctrl + D | Delete the character under the cursor |
 | Ctrl + K | Cut the line from the cursor to the end |
-| Ctrl + U | Cut the line from the beginning to the cursor | 
+| Ctrl + U | Cut the line from the beginning to the cursor |
 | Ctrl + Y | Paste what you previously cut |
 | Ctrl + C | Kill the current running command |
 
@@ -35,7 +35,7 @@ Then when you log in, you can simply type `cd project_name` to get to the projec
 
 ### ssh config file
 
-If you frequently login to servers with `ssh`, you can save time by creating a `config` file. 
+If you frequently login to servers with `ssh`, you can save time by creating a `config` file.
 Create a file called `~/.ssh/config` with your preferred text editor and add entries for each server like so:
 
 ```
@@ -47,14 +47,14 @@ Host host_nickname
 
 Then, instead of typing `ssh -p 8674 your_username@server.address.com`, you can type `ssh host_nickname`. This also works for `scp` and `rsync`!
 
-An entry for Flux looks like this:
+An entry for Great Lakes looks like this:
 ```
-Host flux
-     Hostname flux-login.arc-ts.umich.edu
+Host gl
+     Hostname greatlakes.arc-ts.umich.edu
      User uniqname
 ```
 
-Then to login, type `ssh flux`.
+Then to login, type `ssh gl`.
 
 
 ### View processes running and troubleshoot slowness
