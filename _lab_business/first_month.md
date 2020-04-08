@@ -10,7 +10,7 @@ The Schloss Lab Full Stack includes: mothur, R, knitr, git, bash, and make. In y
 
 ### The Curriculum
 * Getting a Great Lakes account
-  * Email <a href="mailto:hpc-support@umich.edu">Great Lakes Help</a> and tell them to add your uniqname to the "Schloss Lab allocation". cc Pat on your email to the Great Lakes Help people (technically they're part of ARC-TS) since Pat will have to approve your request
+  * Email <a href="mailto:hpc-support@umich.edu">Great Lakes Help</a> and tell them to add your uniqname to the Schloss Lab Great Lakes allocation and our Turbo storage allocatio. cc Pat on your email to the Great Lakes Help people (technically they're part of ARC-TS) since Pat will have to approve your request
   * Complete and submit the [Great Lakes account form](https://arc-ts.umich.edu/login-request/)
 * Become familiar with Great Lakes (be sure to check out the [life hacks](lab_life_hacks.html) page)
   * `ssh greatlakes.arc-ts.umich.edu`
