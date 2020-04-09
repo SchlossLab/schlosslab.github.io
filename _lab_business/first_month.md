@@ -52,7 +52,7 @@ We are primarily a Mac/Linux lab and we make use of a Linux-based computer clust
 * [mothur](https://github.com/mothur/mothur/releases)
 * [R](https://www.r-project.org)
 	* [Desktop RStudio](https://www.rstudio.com) to make interacting with R easier
-	* [RStudio via ARC-Connect](https://vis-dev.arc-ts.umich.edu/connect/#) to connect to RStudio on flux [ does not appear to be working with Great Lakes ]
+	* [RStudio via ARC-Connect](greatlakes.arc-ts.umich.edu) to connect to RStudio on Great Lakes [ On the top of the page when it loads you should see a dropdown menu for "Interactive Apps". You can select Rstudio from there; off campus access requires using the VPN ]
 * Text editor (what you use is a personal preference):
 	* [Atom](https://atom.io)
 	*	[Sublime Text](https://www.sublimetext.com)
