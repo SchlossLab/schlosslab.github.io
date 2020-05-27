@@ -14,7 +14,7 @@ theme_areas:
   - Colorectal Cancer
 email: jmoltzau@umich.edu 
 website: jaymoltzau.com
-twitter: @JayMoltzau
+twitter: JayMoltzau
 linkedin: linkedin.com/in/jaymoltzau
 orcid: 0000-0003-1398-5980
 github: jmoltzau 
