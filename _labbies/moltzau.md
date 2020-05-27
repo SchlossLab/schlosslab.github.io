@@ -2,7 +2,7 @@
 layout: labbies
 status: current
 title: Jay Moltzau 
-picture: moltzau_bio_sq.jpg
+picture: /assets/img/moltzau.jpg
 previous training:
   BA: Grinnell College (2007)
   MSc: University of Copenhagen (2014)
@@ -13,6 +13,7 @@ theme_areas:
   - Gut Microbiome
   - Colorectal Cancer
 email: jmoltzau@umich.edu 
+website: jaymoltzau.com
 twitter: @JayMoltzau
 linkedin: linkedin.com/in/jaymoltzau
 orcid: 0000-0003-1398-5980
