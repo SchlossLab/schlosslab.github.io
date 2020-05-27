@@ -2,17 +2,17 @@
 title: "Effective application of machine learning to microbiome-based classification problems"
 year: 2020
 order: 5
-authors: Topcuoglu BD, Lesniak NA, Ruffin MT, Wiens J, Schloss PD
-journal:
-volume:
-issue:
-pages:
-doi:
+authors: Topcuoglu BD, Lesniak NA, Ruffin MT IV, Wiens J, Schloss PD
+journal: mBio
+volume: 11
+issue: 3
+pages: 1-13
+doi: 10.1128/mBio.00434-20
 PMID:
 PMCID:
 preprint: https://doi.org/10.1101/816090
 google_scholar:
-github: Topcuoglu_ML_XXX_2019
+github: Topcuoglu_ML_mBio_2020
 data:
 labbies: [ schloss, topcuoglu, lesniak ]
 media:
