@@ -7,7 +7,7 @@ previous_training:
   BS: Arizona State University (2012)
   PhD: Oregon State University (2020)
 joined_lab: 2020
-position: post-doctoral research fellow
+position: Post-doctoral Research Fellow
 theme_areas:
   - Gut Microbiome
   - Colorectal Cancer
