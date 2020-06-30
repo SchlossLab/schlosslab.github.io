@@ -1,6 +1,6 @@
 ---
 layout: labbies
-status: current
+status: alumni
 title: William Close
 picture: /assets/img/close.jpg
 previous_training:

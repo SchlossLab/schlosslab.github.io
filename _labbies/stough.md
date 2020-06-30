@@ -1,6 +1,6 @@
 ---
 layout: labbies
-status: current
+status: alumni
 title: Joshua Stough
 picture: /assets/img/stough.jpg
 previous_training:
