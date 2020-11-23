@@ -10,7 +10,7 @@ toc: true
 * UM VPN (for off campus connections)
 * [Atom](https://atom.io)
 
-0. Edit your `~/.ssh/config` file to contain...
+0\. Edit your `~/.ssh/config` file to contain...
 
       ```
       Host gl
