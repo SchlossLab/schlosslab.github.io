@@ -1,6 +1,6 @@
 ---
 layout: index_page
-title: Lab Life Hacks
+title: Interacting with files on Great Lakes
 toc: true
 ---
 
