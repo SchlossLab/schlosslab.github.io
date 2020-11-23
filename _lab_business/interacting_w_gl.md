@@ -11,17 +11,17 @@ toc: true
 * [Atom](https://atom.io)
 * You can do `ssh gl` from the command line to connect to Great Lakes by editing your `~/.ssh/config` file to contain...
 
-      ```
-      Host gl
-      HostName greatlakes.arc-ts.umich.edu
-      RemoteForward 52698 localhost:52698
-      User pschloss #use your username
+```
+Host gl
+HostName greatlakes.arc-ts.umich.edu
+RemoteForward 52698 localhost:52698
+User pschloss
 
-      Host *
-        AddKeysToAgent yes
-        UseKeychain yes
-        IdentityFile ~/.ssh/id_rsa
-      ```
+Host *
+  AddKeysToAgent yes
+  UseKeychain yes
+  IdentityFile ~/.ssh/id_rsa
+```
 
 ### Two terminal windows...
    * nano/vim/emacs in one
@@ -52,9 +52,9 @@ toc: true
     - RStudio doesn't seem happy with this
 
 ### Reverse tunnel w/ Atom (other text editors have this ability too)
-     - The second line in the .ssh/config file we created allows for the reverse tunneling
-     - https://atom.io/packages/remote-atom
-     - remote server is Great Lakes
+  - The second line in the .ssh/config file we created allows for the reverse tunneling
+  - https://atom.io/packages/remote-atom
+  - remote server is Great Lakes
   * Install remote-atom package on your laptop
   * On Great Lakes, run...
 
@@ -79,9 +79,9 @@ toc: true
     - This is a pretty good, all around solution
 
 ### Open OnDemand
-    - Good for interactive jobs and using RStudio
-    - There is also a Remote Desktop app that is analogous to the Connect to Server approach above
-    - Browser based interface to use Great Lakes
+  - Good for interactive jobs and using RStudio
+  - There is also a Remote Desktop app that is analogous to the Connect to Server approach above
+  - Browser based interface to use Great Lakes
   * Navigate to  http://greatlakes.arc-ts.umich.edu/
   * Interactive apps -> RStudio
   * Fill in the specs for your job...
