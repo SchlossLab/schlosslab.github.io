@@ -9,8 +9,7 @@ toc: true
 * Need a Great Lakes account
 * UM VPN (for off campus connections)
 * [Atom](https://atom.io)
-
-0\. Edit your `~/.ssh/config` file to contain...
+* You can do `ssh gl` from the command line to connect to Great Lakes by editing your `~/.ssh/config` file to contain...
 
       ```
       Host gl
@@ -23,9 +22,6 @@ toc: true
         UseKeychain yes
         IdentityFile ~/.ssh/id_rsa
       ```
-      
-    * You can now do `ssh gl` from the command line to connect to Great Lakes
-
 
 1. Two terminal windows...
    * nano/vim/emacs in one
@@ -97,6 +93,7 @@ toc: true
     Partition: standard
     Memory per node (GB): 4
     ```
+    
   * Press "Launch"
   * You will then need to wait a moment or two as it starts your instance. Then click "Launch RStudio" when presented with the button
   * RStudio will open. You can fiddle with the window layout
