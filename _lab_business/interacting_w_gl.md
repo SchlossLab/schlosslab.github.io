@@ -1,3 +1,9 @@
+---
+layout: index_page
+title: Lab Life Hacks
+toc: true
+---
+
 ## Options for connecting to Great Lakes using a text editor / R
 * Need a Great Lakes account
 * UM VPN (for off campus connections)
