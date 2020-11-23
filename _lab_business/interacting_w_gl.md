@@ -4,7 +4,8 @@ title: Interacting with files on Great Lakes
 toc: true
 ---
 
-## Options for connecting to Great Lakes using a text editor / R
+### Prerequisites
+
 * Need a Great Lakes account
 * UM VPN (for off campus connections)
 * [Atom](https://atom.io)
