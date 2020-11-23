@@ -23,7 +23,7 @@ toc: true
         IdentityFile ~/.ssh/id_rsa
       ```
 
-1. Two terminal windows...
+### Two terminal windows...
    * nano/vim/emacs in one
    * R in one
    * Copy and paste back and forth to test
@@ -31,7 +31,7 @@ toc: true
      - Pretty tedious
      - There are R packages for vim/emacs, but then you'll have to learn them
 
-2. Connect to server through GUI
+### Connect to server through GUI
   * Connect to UM with VPN
   * Go -> Connect to server
       
@@ -51,7 +51,7 @@ toc: true
     - Lags and gets painful; Seems to work much better from on campus (VPN?)
     - RStudio doesn't seem happy with this
 
-3. Reverse tunnel w/ Atom (other text editors have this ability too)
+### Reverse tunnel w/ Atom (other text editors have this ability too)
      - The second line in the .ssh/config file we created allows for the reverse tunneling
      - https://atom.io/packages/remote-atom
      - remote server is Great Lakes
@@ -78,7 +78,7 @@ toc: true
     - Can open files in separate panes of Atom, but can't open project directory
     - This is a pretty good, all around solution
 
-4. Open OnDemand
+### Open OnDemand
     - Good for interactive jobs and using RStudio
     - There is also a Remote Desktop app that is analogous to the Connect to Server approach above
     - Browser based interface to use Great Lakes
