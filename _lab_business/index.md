@@ -18,6 +18,7 @@ These resources are intended for members of the Schloss Lab and give outsiders a
 * [Setting up a new project](https://github.com/SchlossLab/new_project)
 * [Organization of Schloss-data folder](schloss-data_shared_directory.html)
 * [Overview of running jobs on Great Lakes](https://github.com/SchlossLab/Great_Lakes_SLURM)
+* [Interacting with files and R on Great Lakes](interacting_w_gl.html)
 
 <h3>Lab Life Hacks</h3>
 * Check out our [lab life hacks](lab_life_hacks.html).
