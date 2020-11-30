@@ -9,19 +9,25 @@ toc: true
 * Need a Great Lakes account
 * UM VPN (for off campus connections)
 * [Atom](https://atom.io)
-* You can do `ssh gl` from the command line to connect to Great Lakes by editing your `~/.ssh/config` file to contain...
+* You can do `ssh glc` from the command line to connect to Great Lakes by editing your `~/.ssh/config` file to contain...
 
 ```
-Host gl
-HostName greatlakes.arc-ts.umich.edu
-RemoteForward 52698 localhost:52698
-User pschloss
+Host glc
+  HostName greatlakes.arc-ts.umich.edu
+  RemoteForward 52698 localhost:52698
+  User pschloss
 
+Host glx
+  Hostname greatlakes-xfer.arc-ts.umich.edu
+  User pschloss
+    
 Host *
   AddKeysToAgent yes
   UseKeychain yes
   IdentityFile ~/.ssh/id_rsa
 ```
+
+The `glx` is useful for logging into Great Lakes if you are transferring files in and out of Great Lakes. It doesn't require Two Factor Authentication so that's a convenience.
 
 ### Two terminal windows...
    * nano/vim/emacs in one
@@ -64,8 +70,9 @@ Host *
     mv rmate ~/bin/ratom
     ```
     
-  * Turn Remote Atom package on in Atom
-  * Connect to Great Lakes
+  * Log out of Great Lakes
+  * Turn Remote Atom package on in Atom (before you log into Great Lakes)
+  * Log into Great Lakes
   * On Great Lakes, navigate to your directory. Open file using...
 
     ```
