@@ -20,6 +20,8 @@ collections:
     output: true
   papers:
     output: true
+  software:
+    output: true
   lab_business:
     output: true
 
