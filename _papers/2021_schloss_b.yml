@@ -1,0 +1,20 @@
+---
+title: "Amplicon sequence variants artificially split bacterial genomes into separate clusters"
+year: 2021
+order: 3
+authors: Schloss PD
+journal:
+volume:
+issue:
+pages:
+doi: 10.1101/2021.02.26.433139
+PMID:
+PMCID:
+preprint: https://doi.org/10.1101/2021.02.26.433139
+google_scholar:
+github: Schloss_rrnAnalysis_mSphere_2021
+data:
+labbies: [ schloss ]
+media:
+section: tool
+---
