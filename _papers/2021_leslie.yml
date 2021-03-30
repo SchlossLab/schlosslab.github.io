@@ -3,16 +3,16 @@ title: "Protection from lethal Clostridioides difficile infection via intraspeci
 year: 2021
 order: 4
 authors: Leslie JL, Jenior ML, Vendrov KC, Standke AK, Barron MR, O’Brien TJ, Unverdorben L, Thaprawat P, Bergin IL, Schloss PD, Young VB
-journal:
-volume:
-issue:
-pages:
-doi: 2021.02.26.433146
+journal: mBio
+volume: 12
+issue: 2
+pages: e00522-21
+doi: 10.1128/mBio.00522-21
 PMID:
 PMCID:
 preprint: https://doi.org/2021.02.26.433146
 google_scholar:
-github: 
+github:
 data:
 labbies: [ schloss, jenior ]
 media:
