@@ -4,7 +4,7 @@ status: current
 title: Jay Moltzau 
 picture: /assets/img/moltzau.jpg
 previous_training:
-  BA: Grinnell College (2007)
+  BA: Grinnell College (2011)
   MSc: University of Copenhagen (2014)
   PhD: Kiel University & the Max-Planck Institute for Evolutionary Biology (2017)
 joined_lab: 2020
