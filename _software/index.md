@@ -18,7 +18,7 @@ Command-Line Tool for Processing 16S rRNA Gene Sequence Data
 [![Conda](https://img.shields.io/conda/vn/Bioconda/mothur)](https://anaconda.org/bioconda/mothur)
 [![Paper](https://img.shields.io/static/v1?style=flat&logo=google-scholar&label=+&message=Paper&color=white)](https://doi.org/10.1128/AEM.01541-09)
 
-## mikropml <img src="https://raw.githubusercontent.com/SchlossLab/mikropml/logo/man/figures/logo.png" align='right' height="139" />
+## mikropml <img src="https://raw.githubusercontent.com/SchlossLab/mikropml/master/man/figures/logo.png" align='right' height="139" />
 
 User-Friendly R Package for Supervised Machine Learning Pipelines
 
