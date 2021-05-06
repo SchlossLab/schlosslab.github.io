@@ -3,16 +3,16 @@ title: "Clearance of <i>Clostridioides difficile</i> colonization is associated 
 year: 2021
 order: 1
 authors: Lesniak NA, Schubert AM, Sinani H, Schloss PD
-journal:
-volume:
+journal: mSphere
+volume: 6
 issue:
-pages:
-doi: 10.1101/2020.11.16.386086
-PMID:
+pages: e01238-20
+doi: 10.1128/mSphere.01238-20
+PMID: 33952668
 PMCID:
 preprint: https://doi.org/10.1101/2020.11.16.386086
 google_scholar:
-github: Lesniak_Clearance_XXXX_2020
+github: Lesniak_Clearance_mSphere_2021
 data: https://www.ncbi.nlm.nih.gov/bioproject/PRJNA674858
 labbies: [ schloss, lesniak, schubert, sinani ]
 media:
