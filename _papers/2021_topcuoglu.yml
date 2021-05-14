@@ -1,0 +1,20 @@
+---
+title: "mikropml: User-Friendly R Package for Supervised Machine Learning Pipelines"
+year: 2021
+order: 5
+authors: Topçuoğlu BD, Lapp Z, Sovacool KL, Snitkin E, Wiens J, Schloss PD
+journal: Journal of Open Source Software
+volume: 6
+issue: 61
+pages: 3073
+doi: 10.21105/joss.03073
+PMID:
+PMCID:
+preprint:
+google_scholar:
+github: mikropml
+data:
+labbies: [ schloss, topcuoglu, sovacool ]
+media:
+section: tool
+---
