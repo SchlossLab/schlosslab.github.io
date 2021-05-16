@@ -26,6 +26,7 @@ User-Friendly R Package for Supervised Machine Learning Pipelines
 [![GitHub](https://img.shields.io/static/v1?style=flat&logo=GitHub&label=+&message=GitHub&color=black)](https://github.com/SchlossLab/mikropml)
 [![CRAN](https://img.shields.io/cran/v/mikropml?color=blue&label=CRAN&logo=R)](https://CRAN.R-project.org/package=mikropml)
 [![Conda](https://img.shields.io/conda/vn/conda-forge/r-mikropml)](https://anaconda.org/conda-forge/r-mikropml)
+[![Paper](https://joss.theoj.org/papers/10.21105/joss.03073/status.svg)](https://doi.org/10.21105/joss.03073)
 
 An interface to build machine learning models for classification
 and regression problems. `mikropml` implements the ML pipeline described
