@@ -1,6 +1,6 @@
 ---
 layout: labbies
-status: current
+status: alumni
 title: Sarah Tomkovich
 picture: /assets/img/tomkovich.jpg
 previous_training:
