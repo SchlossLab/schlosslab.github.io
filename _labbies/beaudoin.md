@@ -1,6 +1,6 @@
 ---
 layout: labbies
-status: current
+status: alumni
 title: Andrew Beaudoin
 picture: /assets/img/beaudoin.jpg
 previous_training:

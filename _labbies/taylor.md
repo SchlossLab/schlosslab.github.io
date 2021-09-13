@@ -1,6 +1,6 @@
 ---
 layout: labbies
-status: current
+status: alumni
 title: Ana Taylor
 picture: /assets/img/taylor.jpg
 previous_training:

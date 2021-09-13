@@ -1,6 +1,6 @@
 ---
 layout: labbies
-status: current
+status: alumni
 title: Jacob King
 picture: /assets/img/king.jpg
 previous_training:
