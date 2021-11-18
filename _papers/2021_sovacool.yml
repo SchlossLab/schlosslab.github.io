@@ -1,0 +1,20 @@
+---
+title: "OptiFit: an improved method for fitting amplicon sequences to existing OTUs"
+year: 2021
+order: 99
+authors: Sovacool KL, Westcott SL, Mumphrey MB, Dotson GA, Schloss PD
+journal:
+volume:
+issue:
+pages:
+doi: 10.1101/2021.11.09.468000
+PMID:
+PMCID:
+preprint: https://doi.org/10.1101/2021.11.09.468000
+google_scholar:
+github: Sovacool_OptiFit_2021
+data:
+labbies: [ schloss, sovacool, westcott ]
+media:
+section: tool
+---
