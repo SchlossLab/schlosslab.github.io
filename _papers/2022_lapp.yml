@@ -1,18 +1,18 @@
 ---
 title: "Developing and deploying an integrated workshop curriculum teaching computational skills for reproducible research"
-year: 2021
-order: 99
+year: 2022
+order: 1
 authors: Lapp Z, Sovacool KL, Lesniak N, King D, Barnier C, Flickinger M, Krüger J, Armour CR, Lapp MM, Tallant J, Diao R, Oneka M, Tomkovich S, Moltzau Anderson J, Lucas SK, Schloss PD
-journal:
+journal: The Journal of Open Science Education
 volume:
 issue:
 pages:
-doi: 10.1101/2021.06.15.448091
+doi: 10.21105/jose.00144
 PMID:
 PMCID:
 preprint: https://doi.org/10.1101/2021.06.15.448091
 google_scholar:
-github:
+github: https://github.com/UMCarpentries/intro-curriculum-r
 data:
 labbies: [ schloss, sovacool, lesniak, armour, tomkovich, moltzau, lucas ]
 media:
