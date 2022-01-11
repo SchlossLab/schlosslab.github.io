@@ -1,18 +1,18 @@
 ---
 title: "A Goldilocks Principle for the Gut Microbiome: Taxonomic Resolution Matters for Microbiome-Based Classification of Colorectal Cancer"
-year: 2021
-order: 99
+year: 2022
+order: 2
 authors: Armour CR, Topcuoglu BD, Garretto A, Schloss PD
-journal:
-volume:
-issue:
-pages:
-doi: 10.1101/2021.10.22.465538
+journal: mBio
+volume: 13
+issue: 1
+pages: e03161-21
+doi: 10.1128/mbio.03161-21
 PMID:
 PMCID:
 preprint: https://doi.org/10.1101/2021.10.22.465538
 google_scholar:
-github: Armour_Resolution_XXXX_2021
+github: Armour_Resolution_mBio_2021
 data:
 labbies: [ schloss, armour, topcuoglu ]
 media:
