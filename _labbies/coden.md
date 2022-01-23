@@ -4,7 +4,6 @@ status: current
 title: Megan Coden
 email: mlcoden@umich.edu
 picture: /assets/img/coden.jpg
-previous_training:
 joined_lab: 2021
 position: Undergraduate Student
 theme_areas:
@@ -15,4 +14,4 @@ theme_areas:
 github: megancoden
 ---
 
-I'm interested in developing computational tools and data analysis pipelines for microbiome research. 
+I'm pursuing a double major in Computer Science and Molecular, Cellular, and Developmental Biology. I am interested in developing machine learning models that can predict the severity of _C. difficile_ infection.
