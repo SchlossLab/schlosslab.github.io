@@ -9,6 +9,8 @@ the microbial world. All of our code is open source and available on
 [Github](https://github.com/SchlossLab). Click on the badges below to learn more
 about the software we develop.
 
+<hr>
+
 ## mothur <img src="https://raw.githubusercontent.com/mothur/logo/master/mothur_RGB.png" align='right' height="139" />
 
 Command-Line Tool for Processing 16S rRNA Gene Sequence Data
@@ -17,6 +19,8 @@ Command-Line Tool for Processing 16S rRNA Gene Sequence Data
 [![GitHub](https://img.shields.io/static/v1?style=flat&logo=GitHub&label=+&message=GitHub&color=black)](https://github.com/mothur/mothur)
 [![Conda](https://img.shields.io/conda/vn/Bioconda/mothur)](https://anaconda.org/bioconda/mothur)
 [![Paper](https://img.shields.io/static/v1?style=flat&logo=google-scholar&label=+&message=Paper&color=white)](https://doi.org/10.1128/AEM.01541-09)
+
+<hr>
 
 ## mikropml <img src="https://raw.githubusercontent.com/SchlossLab/mikropml/master/man/figures/logo.png" align='right' height="139" />
 
@@ -35,6 +39,8 @@ default options for data preprocessing, hyperparameter tuning,
 cross-validation, testing, model evaluation, and interpretation steps.
 See the [website](http://www.schlosslab.org/mikropml/) for more information,
 documentation, and examples.
+
+<hr>
 
 ## schtools
 
