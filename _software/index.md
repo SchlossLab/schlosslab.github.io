@@ -35,3 +35,19 @@ default options for data preprocessing, hyperparameter tuning,
 cross-validation, testing, model evaluation, and interpretation steps.
 See the [website](http://www.schlosslab.org/mikropml/) for more information,
 documentation, and examples.
+
+## schtools
+
+Schloss Lab Tools for Reproducible Microbiome Research 💩
+
+[![Website](https://img.shields.io/static/v1?style=flat&label=Docs&message=Website&color=success)](http://www.schlosslab.org/schtools/)
+[![GitHub](https://img.shields.io/static/v1?style=flat&logo=GitHub&label=+&message=GitHub&color=black)](https://github.com/SchlossLab/schtools)
+[![CRAN](https://img.shields.io/cran/v/schtools?color=blue&label=CRAN&logo=R)](https://CRAN.R-project.org/package=schtools)
+[![Conda](https://img.shields.io/conda/vn/conda-forge/r-schtools)](https://anaconda.org/conda-forge/r-schtools)
+
+A collection of useful functions and example code created and used by the
+Schloss Lab for reproducible microbiome research. Perform common tasks like read
+output files from [mothur](https://mothur.org), tidy up your microbiome data,
+and format rmarkdown documents for publication. See the
+[website](http://www.schlosslab.org/schtools/) for more information,
+documentation, and examples.
