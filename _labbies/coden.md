@@ -14,4 +14,4 @@ theme_areas:
 github: megancoden
 ---
 
-I'm pursuing a double major in Computer Science and Molecular, Cellular, and Developmental Biology. I am interested in developing machine learning models that can predict the severity of _C. difficile_ infection.
+I'm pursuing a double major in Computer Science and Molecular, Cellular, and Developmental Biology. I am interested in developing machine learning models that can predict the severity of _C. difficile_ infections.
