@@ -8,7 +8,7 @@ joined_lab: 2021
 position: Undergraduate Student
 theme_areas:
    - Bioinformatics
-   - _C. difficile_ infection
+   - <i>C. difficile</i> infection
    - Reproducible Research
    - Machine Learning
 github: megancoden
