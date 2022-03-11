@@ -22,7 +22,7 @@ Command-Line Tool for Processing 16S rRNA Gene Sequence Data
 
 <hr>
 
-## mikropml <img src="https://raw.githubusercontent.com/SchlossLab/mikropml/master/man/figures/logo.png" align='right' height="139" />
+## mikropml <img src="https://raw.githubusercontent.com/SchlossLab/mikropml/main/man/figures/logo.png" align='right' height="139" />
 
 User-Friendly R Package for Supervised Machine Learning Pipelines
 
@@ -42,7 +42,7 @@ documentation, and examples.
 
 <hr>
 
-## schtools
+## schtools <a href='http://www.schlosslab.org/schtools/'><img src='https://raw.githubusercontent.com/SchlossLab/schtools/main/man/figures/logo.png' align="right" height="139" /></a>
 
 Schloss Lab Tools for Reproducible Microbiome Research 💩
 
