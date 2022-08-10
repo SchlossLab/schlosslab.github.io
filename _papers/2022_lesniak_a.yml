@@ -1,18 +1,18 @@
 ---
 title: "The gut bacterial community potentiates <i>Clostridioides difficile</i> infection severity"
 year: 2022
-order: 99
+order: 4
 authors: Lesniak NA, Schubert AM, Flynn KJ, Leslie JL, Sinani H, Bergin IL, Young VB, Schloss PD
-journal:
+journal: mBio
 volume:
 issue:
-pages:
-doi: 10.1101/2022.01.31.478599
-PMID:
+pages: e0118322
+doi: 10.1128/mbio.01183-22
+PMID: 35856563
 PMCID:
 preprint: https://doi.org/10.1101/2022.01.31.478599
 google_scholar:
-github: Lesniak_Severity_XXXX_2022
+github: Lesniak_Severity_mBio_2022
 data: https://www.ncbi.nlm.nih.gov/bioproject/PRJNA787941/
 labbies: [ lesniak, schubert, flynn, sinani, schloss ]
 media:
