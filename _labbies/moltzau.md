@@ -1,6 +1,6 @@
 ---
 layout: labbies
-status: current
+status: alumni
 title: Jay Moltzau 
 picture: /assets/img/moltzau.jpg
 previous_training:
