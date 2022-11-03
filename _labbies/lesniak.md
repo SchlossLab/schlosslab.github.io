@@ -1,6 +1,6 @@
 ---
 layout: labbies
-status: current
+status: alumni
 title: Nick Lesniak
 picture: /assets/img/lesniak.jpg
 previous_training:
