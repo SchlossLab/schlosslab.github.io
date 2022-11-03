@@ -1,6 +1,6 @@
 ---
 layout: labbies
-status: current
+status: alumni
 title: Katie McBride
 picture: /assets/img/mcbride.jpg
 previous_training:
