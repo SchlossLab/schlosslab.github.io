@@ -33,6 +33,39 @@ ln -s /nfs/turbo/schloss-lab/uniqname/project_name/ /home/uniqname/project_name/
 
 Then when you log in, you can simply type `cd project_name` to get to the project directory without typing the whole path. You can use a symlink wherever you would use a normal path, such as in `ls`, `cd`, `cp`, or reading/writing files in scripts.
 
+### Aliases
+
+When you run the same commands repeatedly, you might like to 
+create **aliases** to save yourself time typing long commands with lots of options.
+Add your aliases to your `~/.bashrc` or `~/.zshrc`.
+
+For example, typing `snakemake -c 1` every time you want to run a snakemake workflow gets tiresome.
+Instead, you can define an alias to assign this command to `smk`.
+In your `.zshrc` file, add this line:
+```
+alias smk="snakemake -c 1"
+```
+
+Then, you can run `smk` to call snakemake with 1 core. 
+You can also use more cores or specify any other additonal snakemake options with `smk`:
+```
+smk -c 8 --configfile config/test.yml
+```
+
+Here are more aliases that we've found to be helpful:
+
+```
+# run snakemake with 1 core.
+alias smk="snakemake -c 1"
+
+# print the git commit history.
+alias glo="git log --oneline --abbrev-commit --all --graph --decorate --color"
+
+# show the jobs in the queue on GreatLakes or other HPC running SLURM.
+# this modifies the default format to make it more readable.
+alias sqs='squeue -u $USER -o "%.18i %50j %.2t %.6M %R"'
+```
+
 ### ssh config file
 
 If you frequently login to servers with `ssh`, you can save time by creating a `config` file.
