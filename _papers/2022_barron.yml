@@ -1,0 +1,20 @@
+---
+title: "Intestinal Inflammation Reversibly Alters the Microbiota to Drive Susceptibility to Clostridioides difficile Colonization in a Mouse Model of Colitis"
+year: 2022
+order: 6
+authors: Barron MR, Sovacool KL, Abernathy-Close L, Vendrov KC, Standke AK, Bergin IL, Schloss PD, Young VB
+journal: mBio
+volume: 13
+issue: 4
+pages: e0190422
+doi: 10.1128/mbio.01904-22
+PMID: PM35900107
+PMCID: PMC9426610
+preprint: https://doi.org/10.1101/2022.04.07.487579
+google_scholar:
+github: 
+data:
+labbies: [ schloss, sovacool, lesniak, armour, tomkovich, moltzau, lucas ]
+media:
+section: cdiff
+---
