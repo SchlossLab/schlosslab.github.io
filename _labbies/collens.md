@@ -18,3 +18,6 @@ google_scholar: https://scholar.google.com/citations?hl=en&user=tfGGggQAAAAJ&vie
 github: acollens 
 ---
 
+I'm interested in exploring the interacacies of the microbial world and am passionate about open science, reproducabile research, and data accessibility. My current project investigates how accessible or inaccessible data in microbiology manuscripts relate to their citation and usage metrics.  
+
+When I'm not in the dry lab, you might find me playing rugby or reading comics. 
