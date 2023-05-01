@@ -1,0 +1,20 @@
+---
+title: "Machine learning classification by fitting amplicon sequences to existing OTUs"
+year: 2023
+order: 99
+authors: Armour CR, Sovacool KL, Close WL, Topcuoglu BD, Wiens J, Schloss PD
+journal:
+volume:
+issue:
+pages:
+doi:
+PMID:
+PMCID:
+preprint: https://doi.org/10.1101/2022.09.01.506299
+google_scholar:
+github: Armour_OptiFit_mBio_2023
+data:
+labbies: [ schloss, sovacool, armour, topcuoglu, close ]
+media:
+section: colorectal_cancer
+---
