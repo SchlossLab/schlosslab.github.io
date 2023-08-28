@@ -1,13 +1,13 @@
 ---
 title: "Machine learning classification by fitting amplicon sequences to existing OTUs"
 year: 2023
-order: 99
+order: 4
 authors: Armour CR, Sovacool KL, Close WL, Topcuoglu BD, Wiens J, Schloss PD
-journal:
+journal: mSphere
 volume:
 issue:
-pages:
-doi: 10.1101/2022.09.01.506299
+pages: 00336-23
+doi: 10.1128/msphere.00336-23
 PMID:
 PMCID:
 preprint: https://doi.org/10.1101/2022.09.01.506299
