@@ -1,6 +1,6 @@
 ---
 layout: labbies
-status: current
+status: alumni
 title: Megan Coden
 email: mlcoden@umich.edu
 picture: /assets/img/coden.jpg

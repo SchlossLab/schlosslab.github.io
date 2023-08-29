@@ -1,6 +1,6 @@
 ---
 layout: labbies
-status: current
+status: alumni
 title: Sarah Lucas
 picture: /assets/img/lucas.jpg
 previous_training:

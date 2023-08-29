@@ -1,6 +1,6 @@
 ---
 layout: labbies
-status: current
+status: alumni
 title: Adena Collens
 picture: /assets/img/collens.jpg
 previous_training:

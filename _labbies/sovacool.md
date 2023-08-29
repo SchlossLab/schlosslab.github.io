@@ -1,6 +1,6 @@
 ---
 layout: labbies
-status: current
+status: alumni
 title: Kelly Sovacool
 email: sovacool@umich.edu
 picture: /assets/img/sovacool.jpg
