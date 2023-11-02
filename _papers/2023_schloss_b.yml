@@ -1,20 +1,20 @@
 ---
-title: "Removal of rare amplicon sequence variants from 16S rRNA gene sequence surveys biases the interpretation of community structure data"
+title: "More evidence of Impact Factor Mania"
 year: 2023
-order: 99
-authors: Schloss PD
-journal:
+order: 5
+authors: Schloss PD, Cuomo CA
+journal: mSphere
 volume:
 issue:
-pages:
-doi: 10.1101/2020.12.11.422279
+pages: 03496-23
+doi: 10.1128/spectrum.03496-23
 PMID:
 PMCID:
-preprint: https://doi.org/10.1101/2020.12.11.422279
+preprint:
 google_scholar:
-github: Schloss_Singletons_XXXXX_2019
+github:
 data:
 labbies: [ schloss ]
 media:
-section: tool
+section: culture
 ---
