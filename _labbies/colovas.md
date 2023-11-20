@@ -1,6 +1,6 @@
 ---
 layout: labbies
-status: active
+status: current
 title: Joanna Colovas
 picture: /assets/img/colovas.jpg
 previous_training:
