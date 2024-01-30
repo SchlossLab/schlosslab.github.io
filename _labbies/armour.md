@@ -1,6 +1,6 @@
 ---
 layout: labbies
-status: current
+status: alumni
 title: Courtney Armour
 picture: /assets/img/armour.jpg
 previous_training:
@@ -21,4 +21,3 @@ google_scholar: https://scholar.google.com/citations?hl=en&user=7ljt6KQAAAAJ&vie
 github: courtneyarmour 
 ---
 
-coming soon...
