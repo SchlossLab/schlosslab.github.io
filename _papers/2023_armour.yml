@@ -4,12 +4,12 @@ year: 2023
 order: 4
 authors: Armour CR, Sovacool KL, Close WL, Topcuoglu BD, Wiens J, Schloss PD
 journal: mSphere
-volume:
-issue:
+volume: 8
+issue: 5
 pages: 00336-23
 doi: 10.1128/msphere.00336-23
-PMID:
-PMCID:
+PMID: 37615431
+PMCID: PMC10597446
 preprint: https://doi.org/10.1101/2022.09.01.506299
 google_scholar:
 github: Armour_OptiFit_mBio_2023
