@@ -1,6 +1,6 @@
 ---
 layout: labbies
-status: current
+status: alumni
 title: Allison Mason
 email: masonar@umich.edu
 picture: /assets/img/mason.jpg
