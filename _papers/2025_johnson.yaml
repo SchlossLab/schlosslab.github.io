@@ -1,0 +1,20 @@
+---
+title: "clustur: an R package for clustering features using sparse distance matrices"
+year: 2025
+order: 3
+authors: Johnson G Jr, Westcott SL, Schloss PD
+journal: Microbiology Resource Announcements
+volume:
+issue:
+pages: e0123824
+doi: 10.1128/mra.01238-24
+PMID: 39882861
+PMCID:
+preprint: 
+google_scholar:
+github: Mason_mpactr_MRA_2024
+data: https://www.mums2.org/mpactr/
+labbies: [ schloss, westcott, johnson ]
+media:
+section: tool
+---

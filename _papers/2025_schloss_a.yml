@@ -1,0 +1,20 @@
+---
+title: "phylotypr: an R package for classifying DNA sequences"
+year: 2025
+order: 2
+authors: Schloss PD
+journal: Microbiology Resource Announcements
+volume:
+issue:
+pages: e0114424
+doi: 10.1128/mra.01144-24
+PMID: 39807875
+PMCID:
+preprint:
+google_scholar:
+github: Schloss_phylotypr_MRA_2024
+data: https://mothur.org/phylotypr/
+labbies: [ schloss ]
+media:
+section: tool
+---
