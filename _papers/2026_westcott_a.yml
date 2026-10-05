@@ -1,0 +1,20 @@
+---
+title: "Strollur: an R package for working with amplicon sequence data in R"
+year: 2026
+order: 2
+authors: Westcott SL, Johnson G Jr, Schloss PD
+journal: Microbiology Resource Announcements
+volume:
+issue:
+pages:
+doi: 10.1128/mra.00839-26
+PMID: 42808722
+PMCID: 
+preprint: 
+google_scholar:
+github:
+data: https://github.com/mothur/strollur
+labbies: [ schloss ]
+media:
+section: tool
+---
